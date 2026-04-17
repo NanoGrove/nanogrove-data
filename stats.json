@@ -1,0 +1,56 @@
+{
+  "updated_at": "2026-04-17T14:23:00Z",
+  "treasury": {
+    "total_donated": 4.21,
+    "tx_count": 127
+  },
+  "garden": {
+    "soil_moisture": 64,
+    "valve_status": "closed",
+    "last_watered_ago": "2m ago",
+    "last_watered_volume": 0.8,
+    "flow_rate": 2.1,
+    "total_water_liters": 48.6
+  },
+  "feeder": {
+    "tray_level": 78,
+    "last_dispensed_grams": 12,
+    "last_dispensed_ago": "2m ago",
+    "servo_status": "idle",
+    "today_seed_grams": 84,
+    "today_dispense_cycles": 7
+  },
+  "growing": {
+    "plant": "Broccoli",
+    "emoji": "🥦",
+    "days_since_sown": 55,
+    "days_to_harvest": 35,
+    "progress_pct": 61
+  },
+  "recent_tx": [
+    {
+      "addr": "nano_3xr7...qk91",
+      "amount": 0.005,
+      "time_ago": "2m",
+      "garden_action": "Watered #1 (0.8L)",
+      "feeder_action": "Dispensed 12g",
+      "active": true
+    },
+    {
+      "addr": "nano_1fb2...m4a3",
+      "amount": 0.010,
+      "time_ago": "18m",
+      "garden_action": "Watered #2 (2.4L)",
+      "feeder_action": "Dispensed 12g",
+      "active": false
+    },
+    {
+      "addr": "nano_7yz8...p2e5",
+      "amount": 0.001,
+      "time_ago": "1h",
+      "garden_action": "Queued (moisture OK)",
+      "feeder_action": "Dispensed 12g",
+      "active": false
+    }
+  ]
+}
