@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-04-22T21:33:02Z",
+  "updated_at": "2026-04-22T21:37:02Z",
   "treasury": {
-    "total_donated": 0.654,
-    "tx_count": 69
+    "total_donated": 0.664,
+    "tx_count": 70
   },
   "garden": {
     "soil_moisture": 0,
@@ -15,7 +15,7 @@
   "feeder": {
     "tray_level": 80,
     "last_dispensed_grams": 12,
-    "last_dispensed_ago": "17:32:47",
+    "last_dispensed_ago": "17:36:52",
     "servo_status": "idle",
     "today_seed_grams": 0,
     "today_dispense_cycles": 0
@@ -39,6 +39,16 @@
       "feeder_action": "--",
       "time_ago": "6m ago",
       "active": true,
+      "hash": "0BF619956001F9C56F190587F3E0D031707063AC52137E22F6D13F987F7A9F62"
+    },
+    {
+      "addr": "nano_1udkdbd...u4r5s6",
+      "full_addr": "nano_1udkdbdhwy7pq7d3ntstnsi5jcut3qahi5up6rzt5s7r5r4945f9pbu4r5s6",
+      "amount": 0.01,
+      "garden_action": "Donated",
+      "feeder_action": "--",
+      "time_ago": "10m ago",
+      "active": false,
       "hash": "5BA852A8E36EE4A06CAC3D261E4A050A5058FCBA3958E74B5353D1D6D6BEFFC5"
     },
     {
@@ -47,7 +57,7 @@
       "amount": 0.01,
       "garden_action": "Donated",
       "feeder_action": "--",
-      "time_ago": "7m ago",
+      "time_ago": "11m ago",
       "active": false,
       "hash": "65A96D111D4304DBE1AD70194153D814DB8C3AA082F49D5FD6AC067149A570F1"
     },
@@ -57,7 +67,7 @@
       "amount": 0.01,
       "garden_action": "Donated",
       "feeder_action": "--",
-      "time_ago": "24m ago",
+      "time_ago": "28m ago",
       "active": false,
       "hash": "42BAB2BE106554BD66559A3DE8AC9EF991242DB0F28B581476987C24F51594D2"
     },
@@ -67,7 +77,7 @@
       "amount": 0.01,
       "garden_action": "Donated",
       "feeder_action": "--",
-      "time_ago": "42m ago",
+      "time_ago": "46m ago",
       "active": false,
       "hash": "216B3172800641C7CEF38582629F9EF6425EB8B69A10D1A07E9002508D129273"
     },
@@ -120,16 +130,6 @@
       "time_ago": "2d ago",
       "active": false,
       "hash": "CE559A65D66719C5C276AC4CFC41803FA9FF074A53E06CC7940D348C09D7A27D"
-    },
-    {
-      "addr": "nano_1udkdbd...u4r5s6",
-      "full_addr": "nano_1udkdbdhwy7pq7d3ntstnsi5jcut3qahi5up6rzt5s7r5r4945f9pbu4r5s6",
-      "amount": 0.01,
-      "garden_action": "Donated",
-      "feeder_action": "--",
-      "time_ago": "2d ago",
-      "active": false,
-      "hash": "E0E5B7D8B100819010C202631BBBBF739C970CEC104A44F05B2F91534CBF9972"
     }
   ]
 }
