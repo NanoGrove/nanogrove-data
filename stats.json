@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-05-01T21:18:02Z",
+  "updated_at": "2026-05-02T12:25:40Z",
   "treasury": {
     "total_donated": 1.694,
     "tx_count": 83
   },
   "garden": {
     "soil_moisture": 0,
-    "valve_status": "open",
+    "valve_status": "closed",
     "last_watered_ago": "--",
     "last_watered_volume": 0,
     "flow_rate": 0,
@@ -23,9 +23,9 @@
   "growing": {
     "emoji": "\ud83e\udd66",
     "plant": "Broccoli",
-    "days_since_sown": 30,
-    "days_to_harvest": 39,
-    "progress_pct": 43
+    "days_since_sown": 31,
+    "days_to_harvest": 38,
+    "progress_pct": 45
   },
   "weather": {
     "rain_chance": 0
@@ -37,7 +37,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Fed",
-      "time_ago": "43m ago",
+      "time_ago": "15h ago",
       "active": true,
       "hash": "5BD414152874CFB9108122B6554FB6EBC9080300CFD6AA1A295FCA463FD29C28"
     },
@@ -47,7 +47,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Fed",
-      "time_ago": "5h ago",
+      "time_ago": "20h ago",
       "active": false,
       "hash": "F3E582DC71BDB7314FB9078E1ADC13EB9D8402EF66B5A7DF6E66F96420329131"
     },
@@ -57,7 +57,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Fed",
-      "time_ago": "7h ago",
+      "time_ago": "22h ago",
       "active": false,
       "hash": "C8CE236A188A289972BB77FFE70B4C59C46D9972BA15E3DC889398355F267BB9"
     },
@@ -77,7 +77,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Fed",
-      "time_ago": "8d ago",
+      "time_ago": "9d ago",
       "active": false,
       "hash": "DFE3BEB9ABBE642F18C6396475A93C7E20B7F8CF77EDD81C3D3C10885182C99F"
     },
@@ -87,7 +87,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Fed",
-      "time_ago": "8d ago",
+      "time_ago": "9d ago",
       "active": false,
       "hash": "59A85B7504FAC44C4A0B1F2A1616BC8D07D2E8D1F3E0618BAFD0393B2A34CE45"
     },
@@ -97,7 +97,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Fed",
-      "time_ago": "8d ago",
+      "time_ago": "9d ago",
       "active": false,
       "hash": "B74ADF5C49A8DB4F42582C3F189693E1CE0A6AA567037A8539D604F12D5F9F08"
     },
@@ -107,7 +107,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Fed",
-      "time_ago": "8d ago",
+      "time_ago": "9d ago",
       "active": false,
       "hash": "6E99F2992004ABE7C847A57AF11A81D648C3981ACA0399851D01A38D309DF006"
     },
@@ -117,7 +117,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Fed",
-      "time_ago": "8d ago",
+      "time_ago": "9d ago",
       "active": false,
       "hash": "E044C99757DB55DB79A2B2ED36CA13E8740A4E7CDB20A3D75E9B66C6896AEC26"
     },
@@ -127,7 +127,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Fed",
-      "time_ago": "8d ago",
+      "time_ago": "9d ago",
       "active": false,
       "hash": "1544EEE9AE49C04B9987821D80C276561625A3167FCB3BA0F02794B7155398B5"
     }
