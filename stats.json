@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-03T20:18:03Z",
+  "updated_at": "2026-05-04T13:02:44Z",
   "treasury": {
     "total_donated": 1.694,
     "tx_count": 83
@@ -23,9 +23,9 @@
   "growing": {
     "emoji": "\ud83e\udd66",
     "plant": "Broccoli",
-    "days_since_sown": 32,
-    "days_to_harvest": 37,
-    "progress_pct": 46
+    "days_since_sown": 33,
+    "days_to_harvest": 36,
+    "progress_pct": 48
   },
   "weather": {
     "rain_chance": 0
@@ -37,7 +37,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "1d ago",
+      "time_ago": "2d ago",
       "active": true,
       "hash": "5BD414152874CFB9108122B6554FB6EBC9080300CFD6AA1A295FCA463FD29C28"
     },
@@ -77,7 +77,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "10d ago",
+      "time_ago": "11d ago",
       "active": false,
       "hash": "DFE3BEB9ABBE642F18C6396475A93C7E20B7F8CF77EDD81C3D3C10885182C99F"
     },
@@ -87,7 +87,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "10d ago",
+      "time_ago": "11d ago",
       "active": false,
       "hash": "59A85B7504FAC44C4A0B1F2A1616BC8D07D2E8D1F3E0618BAFD0393B2A34CE45"
     },
@@ -97,7 +97,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "10d ago",
+      "time_ago": "11d ago",
       "active": false,
       "hash": "B74ADF5C49A8DB4F42582C3F189693E1CE0A6AA567037A8539D604F12D5F9F08"
     },
@@ -107,7 +107,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "10d ago",
+      "time_ago": "11d ago",
       "active": false,
       "hash": "6E99F2992004ABE7C847A57AF11A81D648C3981ACA0399851D01A38D309DF006"
     },
@@ -117,7 +117,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "10d ago",
+      "time_ago": "11d ago",
       "active": false,
       "hash": "E044C99757DB55DB79A2B2ED36CA13E8740A4E7CDB20A3D75E9B66C6896AEC26"
     },
@@ -127,7 +127,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "10d ago",
+      "time_ago": "11d ago",
       "active": false,
       "hash": "1544EEE9AE49C04B9987821D80C276561625A3167FCB3BA0F02794B7155398B5"
     }
