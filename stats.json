@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-04T22:03:03Z",
+  "updated_at": "2026-05-04T22:04:03Z",
   "treasury": {
     "total_donated": 5.594,
     "tx_count": 122
@@ -10,7 +10,7 @@
     "last_watered_ago": "--",
     "last_watered_volume": 0,
     "flow_rate": 0,
-    "total_water_liters": 22.0
+    "total_water_liters": 42.1
   },
   "feeder": {
     "tray_level": 80,
