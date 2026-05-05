@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-05T19:18:02Z",
+  "updated_at": "2026-05-05T19:19:02Z",
   "treasury": {
-    "total_donated": 10.294,
-    "tx_count": 169
+    "total_donated": 10.494,
+    "tx_count": 171
   },
   "garden": {
     "soil_moisture": 86,
@@ -15,10 +15,10 @@
   "feeder": {
     "tray_level": 80,
     "last_dispensed_grams": 12,
-    "last_dispensed_ago": "14:49:32",
+    "last_dispensed_ago": "15:18:37",
     "servo_status": "idle",
-    "today_seed_grams": 12,
-    "today_dispense_cycles": 1
+    "today_seed_grams": 36,
+    "today_dispense_cycles": 3
   },
   "growing": {
     "emoji": "\ud83e\udd66",
@@ -37,8 +37,28 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "35m ago",
+      "time_ago": "7m ago",
       "active": true,
+      "hash": "A646EEC4647772787A734D9F72E92284A542F6CE960681BBAE1986EFEA5B75F4"
+    },
+    {
+      "addr": "nano_1udkdbd...u4r5s6",
+      "full_addr": "nano_1udkdbdhwy7pq7d3ntstnsi5jcut3qahi5up6rzt5s7r5r4945f9pbu4r5s6",
+      "amount": 0.1,
+      "garden_action": "Watered",
+      "feeder_action": "Dispensed",
+      "time_ago": "7m ago",
+      "active": false,
+      "hash": "52533A1509385CA910737727581892D46BEA9FFDE3376546CF1BFCACE6D335E8"
+    },
+    {
+      "addr": "nano_1udkdbd...u4r5s6",
+      "full_addr": "nano_1udkdbdhwy7pq7d3ntstnsi5jcut3qahi5up6rzt5s7r5r4945f9pbu4r5s6",
+      "amount": 0.1,
+      "garden_action": "Watered",
+      "feeder_action": "Dispensed",
+      "time_ago": "36m ago",
+      "active": false,
       "hash": "51DFEB58CAEC6633425DC52E68E4D34BD016E9ACE2924CCE8A9FE9CD13A0751A"
     },
     {
@@ -110,26 +130,6 @@
       "time_ago": "5h ago",
       "active": false,
       "hash": "2C3BF2F90B0DF5FE1068474B5300363F3EA9C86985C0174EC16F95ED04CC2D08"
-    },
-    {
-      "addr": "nano_1udkdbd...u4r5s6",
-      "full_addr": "nano_1udkdbdhwy7pq7d3ntstnsi5jcut3qahi5up6rzt5s7r5r4945f9pbu4r5s6",
-      "amount": 0.1,
-      "garden_action": "Watered",
-      "feeder_action": "Dispensed",
-      "time_ago": "5h ago",
-      "active": false,
-      "hash": "3BA5E5D6B033C790A7B0D4EAADCC3DD6D3C7BFD348FFCC2D2BF81A2F52DD5FBD"
-    },
-    {
-      "addr": "nano_1udkdbd...u4r5s6",
-      "full_addr": "nano_1udkdbdhwy7pq7d3ntstnsi5jcut3qahi5up6rzt5s7r5r4945f9pbu4r5s6",
-      "amount": 0.1,
-      "garden_action": "Watered",
-      "feeder_action": "Dispensed",
-      "time_ago": "5h ago",
-      "active": false,
-      "hash": "F5FB70802771C3EAAE71B4A6B251D93B87B0BF048997C5D1F15D844A2B1A71AA"
     }
   ]
 }
