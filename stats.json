@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-05T20:27:02Z",
+  "updated_at": "2026-05-05T20:28:02Z",
   "treasury": {
-    "total_donated": 10.694,
-    "tx_count": 173
+    "total_donated": 10.794,
+    "tx_count": 174
   },
   "garden": {
     "soil_moisture": 92,
@@ -15,10 +15,10 @@
   "feeder": {
     "tray_level": 80,
     "last_dispensed_grams": 12,
-    "last_dispensed_ago": "16:23:31",
+    "last_dispensed_ago": "16:27:48",
     "servo_status": "idle",
-    "today_seed_grams": 24,
-    "today_dispense_cycles": 2
+    "today_seed_grams": 36,
+    "today_dispense_cycles": 3
   },
   "growing": {
     "emoji": "\ud83e\udd66",
@@ -37,8 +37,18 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "10m ago",
+      "time_ago": "6m ago",
       "active": true,
+      "hash": "0BC7E3F608591368DBF6E285447CF8F839C0D12BA9D42754CD8E5346B8AD2999"
+    },
+    {
+      "addr": "nano_1udkdbd...u4r5s6",
+      "full_addr": "nano_1udkdbdhwy7pq7d3ntstnsi5jcut3qahi5up6rzt5s7r5r4945f9pbu4r5s6",
+      "amount": 0.1,
+      "garden_action": "Watered",
+      "feeder_action": "Dispensed",
+      "time_ago": "11m ago",
+      "active": false,
       "hash": "6FB3E1FC39DB35792750E8D6BC9FA85F756926F4922ED84A22733AC59982DB04"
     },
     {
@@ -47,7 +57,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "35m ago",
+      "time_ago": "36m ago",
       "active": false,
       "hash": "7078C9EAAC3A72D7CA0C499F565EFDC375B7844F7F8C24E3498BB459E68A11D4"
     },
@@ -120,16 +130,6 @@
       "time_ago": "6h ago",
       "active": false,
       "hash": "5486F64F7C92A7301110147DD8987E9729AFE0CCF11F75FA8761ED2DFF3182D5"
-    },
-    {
-      "addr": "nano_1udkdbd...u4r5s6",
-      "full_addr": "nano_1udkdbdhwy7pq7d3ntstnsi5jcut3qahi5up6rzt5s7r5r4945f9pbu4r5s6",
-      "amount": 0.1,
-      "garden_action": "Watered",
-      "feeder_action": "Dispensed",
-      "time_ago": "6h ago",
-      "active": false,
-      "hash": "6A115894211804ACFA34B1137D49CD2536789B729825FC1A5EB344BB15497480"
     }
   ]
 }
