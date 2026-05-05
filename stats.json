@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-05-05T12:29:03Z",
+  "updated_at": "2026-05-05T12:45:03Z",
   "treasury": {
     "total_donated": 6.594,
     "tx_count": 132
   },
   "garden": {
-    "soil_moisture": 39,
-    "valve_status": "open",
+    "soil_moisture": 42,
+    "valve_status": "closed",
     "last_watered_ago": "--",
     "last_watered_volume": 0,
     "flow_rate": 0,
@@ -57,7 +57,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "13h ago",
+      "time_ago": "14h ago",
       "active": false,
       "hash": "6F6F6B36B7D774FAC55886919C66161D51B63B0ABF79BE296D0568733DBE66E4"
     },
@@ -67,7 +67,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "13h ago",
+      "time_ago": "14h ago",
       "active": false,
       "hash": "4C651A2D55604DBB8008EE58F1B0E3274BAE830E9593794756909A1DA2BA3948"
     },
@@ -77,7 +77,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "13h ago",
+      "time_ago": "14h ago",
       "active": false,
       "hash": "567F4F11730E5E690F21B13B4BDC8F8A8693387034EFA08A162CC3527AC6741D"
     },
@@ -87,7 +87,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "13h ago",
+      "time_ago": "14h ago",
       "active": false,
       "hash": "F56428B2306CDE4A4EECCAFFD787AACD57E86CDCEC23A45F79F79F27CD6274BA"
     },
@@ -97,7 +97,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "13h ago",
+      "time_ago": "14h ago",
       "active": false,
       "hash": "522825DF6A89EF338DC9D6B4FB6AAB74C4E4184D79572D96277362D03A0CF493"
     },
@@ -107,7 +107,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "13h ago",
+      "time_ago": "14h ago",
       "active": false,
       "hash": "5E8DF2D4B5D7857260E22375213AB4A985BFA72029454D33CC15C02A701D5A1F"
     },
