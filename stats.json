@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-07T15:59:02Z",
+  "updated_at": "2026-05-07T16:00:02Z",
   "treasury": {
-    "total_donated": 15.524,
-    "tx_count": 233
+    "total_donated": 15.624,
+    "tx_count": 234
   },
   "garden": {
     "soil_moisture": 64,
@@ -15,10 +15,10 @@
   "feeder": {
     "tray_level": 0,
     "last_dispensed_grams": 12,
-    "last_dispensed_ago": "11:58:48",
+    "last_dispensed_ago": "11:59:09",
     "servo_status": "idle",
-    "today_seed_grams": 96,
-    "today_dispense_cycles": 8
+    "today_seed_grams": 108,
+    "today_dispense_cycles": 9
   },
   "growing": {
     "emoji": "\ud83e\udd66",
@@ -28,8 +28,8 @@
     "progress_pct": 52
   },
   "weather": {
-    "temp": 58,
-    "condition": "Overcast",
+    "temp": "--",
+    "condition": "",
     "rain_chance": 0,
     "precip_mm_hr": 0
   },
@@ -40,8 +40,18 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "6m ago",
+      "time_ago": "7m ago",
       "active": true,
+      "hash": "DF5AD04AC2BF150D2D01914A5BFB20633272C51AEFCE2AF9F53DB12717EA1414"
+    },
+    {
+      "addr": "nano_1udkdbd...u4r5s6",
+      "full_addr": "nano_1udkdbdhwy7pq7d3ntstnsi5jcut3qahi5up6rzt5s7r5r4945f9pbu4r5s6",
+      "amount": 0.1,
+      "garden_action": "Watered",
+      "feeder_action": "Dispensed",
+      "time_ago": "7m ago",
+      "active": false,
       "hash": "2B30C517DEAD434C349D681DC194F244A1EB23164553012326CE258E15BE0F09"
     },
     {
@@ -50,7 +60,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "19m ago",
+      "time_ago": "20m ago",
       "active": false,
       "hash": "8F9A2A63DF65770459F7475F8E64ADA9E8319356B77B34FAA799F76AD815FD56"
     },
@@ -60,7 +70,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "28m ago",
+      "time_ago": "29m ago",
       "active": false,
       "hash": "A309CB7D4231169F2EA6F02F325BAEBB5A1A7AD6A6801906541CF2494F41F314"
     },
@@ -70,7 +80,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "29m ago",
+      "time_ago": "30m ago",
       "active": false,
       "hash": "7EE2DFF231930C2A21D5807CC8056B77FA30446136A318B2D97CC528C85AB79B"
     },
@@ -80,7 +90,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "59m ago",
+      "time_ago": "1h ago",
       "active": false,
       "hash": "2F3EC9AB4CDB4EFF73F0393101D1F1E90611638156163DD528C70160235F9F70"
     },
@@ -123,16 +133,6 @@
       "time_ago": "1h ago",
       "active": false,
       "hash": "BE4CE14C4095FE925220B5BB511BE0729770E410FB0DE687D78571B9785CFBD3"
-    },
-    {
-      "addr": "nano_1udkdbd...u4r5s6",
-      "full_addr": "nano_1udkdbdhwy7pq7d3ntstnsi5jcut3qahi5up6rzt5s7r5r4945f9pbu4r5s6",
-      "amount": 0.1,
-      "garden_action": "Watered",
-      "feeder_action": "Dispensed",
-      "time_ago": "1h ago",
-      "active": false,
-      "hash": "A4D68E4921448DF6EA8B0C801740CFFCBD3385C35B73B7B7FC2E9480FFC3A023"
     }
   ]
 }
