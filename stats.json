@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-05-07T13:10:04Z",
+  "updated_at": "2026-05-07T13:11:03Z",
   "treasury": {
-    "total_donated": 13.714,
-    "tx_count": 196
+    "total_donated": 13.724,
+    "tx_count": 197
   },
   "garden": {
-    "soil_moisture": 60,
+    "soil_moisture": 59,
     "valve_status": "closed",
     "last_watered_ago": "--",
     "last_watered_volume": 0,
@@ -13,9 +13,9 @@
     "total_water_liters": 0.0
   },
   "feeder": {
-    "tray_level": 45,
+    "tray_level": 40,
     "last_dispensed_grams": 12,
-    "last_dispensed_ago": "09:09:33",
+    "last_dispensed_ago": "09:10:07",
     "servo_status": "idle",
     "today_seed_grams": 0,
     "today_dispense_cycles": 0
@@ -42,6 +42,16 @@
       "feeder_action": "--",
       "time_ago": "7m ago",
       "active": true,
+      "hash": "C6A5D0C3191FB57449AC471CF1A6264EDE671C05804FFE994ADBA99376EFA8FE"
+    },
+    {
+      "addr": "nano_1udkdbd...u4r5s6",
+      "full_addr": "nano_1udkdbdhwy7pq7d3ntstnsi5jcut3qahi5up6rzt5s7r5r4945f9pbu4r5s6",
+      "amount": 0.01,
+      "garden_action": "Donated",
+      "feeder_action": "--",
+      "time_ago": "7m ago",
+      "active": false,
       "hash": "ABE60B2C0D62C540B89A6BDD07F1466ACEF02C64DC50289A9C40DF112FB79E7A"
     },
     {
@@ -50,7 +60,7 @@
       "amount": 1.0,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "22m ago",
+      "time_ago": "23m ago",
       "active": false,
       "hash": "C65F8A531B005D4E7D22E9DD8D5F869297095654D7D79399DD3CA462F6514364"
     },
@@ -123,16 +133,6 @@
       "time_ago": "17h ago",
       "active": false,
       "hash": "E3EB419958444DDCD882CB6D14B914DB7539DD60BC3534E988788F0C8E2E0E88"
-    },
-    {
-      "addr": "nano_1udkdbd...u4r5s6",
-      "full_addr": "nano_1udkdbdhwy7pq7d3ntstnsi5jcut3qahi5up6rzt5s7r5r4945f9pbu4r5s6",
-      "amount": 0.1,
-      "garden_action": "Watered",
-      "feeder_action": "Dispensed",
-      "time_ago": "17h ago",
-      "active": false,
-      "hash": "319A977E4761348C2142B5CA351E208EAAF9D3EDF49F2E96285E4E06166DF08A"
     }
   ]
 }
