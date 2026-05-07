@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-07T14:30:02Z",
+  "updated_at": "2026-05-07T14:31:03Z",
   "treasury": {
-    "total_donated": 13.814,
-    "tx_count": 206
+    "total_donated": 13.824,
+    "tx_count": 207
   },
   "garden": {
     "soil_moisture": 62,
@@ -15,7 +15,7 @@
   "feeder": {
     "tray_level": 0,
     "last_dispensed_grams": 12,
-    "last_dispensed_ago": "10:29:01",
+    "last_dispensed_ago": "10:30:12",
     "servo_status": "idle",
     "today_seed_grams": 0,
     "today_dispense_cycles": 0
@@ -28,8 +28,8 @@
     "progress_pct": 52
   },
   "weather": {
-    "temp": "--",
-    "condition": "",
+    "temp": 59,
+    "condition": "Overcast",
     "rain_chance": 0,
     "precip_mm_hr": 0
   },
@@ -42,6 +42,16 @@
       "feeder_action": "--",
       "time_ago": "7m ago",
       "active": true,
+      "hash": "DDF961B937F17236742D5D9209616C27A13773706E73FDC6D178CA9D6322A2A8"
+    },
+    {
+      "addr": "nano_1udkdbd...u4r5s6",
+      "full_addr": "nano_1udkdbdhwy7pq7d3ntstnsi5jcut3qahi5up6rzt5s7r5r4945f9pbu4r5s6",
+      "amount": 0.01,
+      "garden_action": "Donated",
+      "feeder_action": "--",
+      "time_ago": "8m ago",
+      "active": false,
       "hash": "F38CA8B11B5BEBBE2FC5F8E66E30D7AACE41E1A345FF7FE7BB5D352B700022AE"
     },
     {
@@ -50,7 +60,7 @@
       "amount": 0.01,
       "garden_action": "Donated",
       "feeder_action": "--",
-      "time_ago": "57m ago",
+      "time_ago": "58m ago",
       "active": false,
       "hash": "FB3B914A89CAE717B95F2BF71EAB0CD7EC85234DF028E100032688A3AE7F5F50"
     },
@@ -123,16 +133,6 @@
       "time_ago": "1h ago",
       "active": false,
       "hash": "F1A01FC3C857A7BA5BB61F585ADB5853EED4029A9328CE61B6C6FEBC393899B2"
-    },
-    {
-      "addr": "nano_1udkdbd...u4r5s6",
-      "full_addr": "nano_1udkdbdhwy7pq7d3ntstnsi5jcut3qahi5up6rzt5s7r5r4945f9pbu4r5s6",
-      "amount": 0.01,
-      "garden_action": "Donated",
-      "feeder_action": "--",
-      "time_ago": "1h ago",
-      "active": false,
-      "hash": "C6A5D0C3191FB57449AC471CF1A6264EDE671C05804FFE994ADBA99376EFA8FE"
     }
   ]
 }
