@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-07T19:00:02Z",
+  "updated_at": "2026-05-07T19:01:02Z",
   "treasury": {
     "total_donated": 17.824,
     "tx_count": 256
@@ -28,8 +28,8 @@
     "progress_pct": 52
   },
   "weather": {
-    "temp": "--",
-    "condition": "",
+    "temp": 55,
+    "condition": "Overcast",
     "rain_chance": 0,
     "precip_mm_hr": 0
   },
@@ -40,7 +40,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "8m ago",
+      "time_ago": "9m ago",
       "active": true,
       "hash": "16CAA1AF0C6F955F6C4901697B96FA01824AA3D0D4710C9D86A39A8090F1D698"
     },
@@ -50,7 +50,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "44m ago",
+      "time_ago": "45m ago",
       "active": false,
       "hash": "9845ADB15D5ED840E293C414011E03141F1B4B0ACF38E67C2AC825FD3E814EFB"
     },
@@ -60,7 +60,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "48m ago",
+      "time_ago": "49m ago",
       "active": false,
       "hash": "FBD68FF0DA6F367333983BF9DC0B5D9DBDC8F5B99CC7EB94C703E53521227464"
     },
@@ -70,7 +70,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "49m ago",
+      "time_ago": "50m ago",
       "active": false,
       "hash": "5BF8AE483554FDF0D0156C81AD5F861A852942EAEC2B1FB7261193542390F6B4"
     },
@@ -80,7 +80,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "51m ago",
+      "time_ago": "52m ago",
       "active": false,
       "hash": "7F6EE3790749D55759F5F0379CF21476182041A8A51837B5A05D8D74027E1651"
     },
@@ -90,7 +90,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "58m ago",
+      "time_ago": "59m ago",
       "active": false,
       "hash": "5A5BEE6A029658B8EAB0EA98C8EAD1FD97A495F7A124D289E16EDADB5266BF5F"
     },
