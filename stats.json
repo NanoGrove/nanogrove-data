@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-08T01:56:02Z",
+  "updated_at": "2026-05-08T01:57:02Z",
   "treasury": {
-    "total_donated": 18.744,
-    "tx_count": 267
+    "total_donated": 18.844,
+    "tx_count": 268
   },
   "garden": {
     "soil_moisture": 74,
@@ -15,10 +15,10 @@
   "feeder": {
     "tray_level": 0,
     "last_dispensed_grams": 12,
-    "last_dispensed_ago": "21:22:27",
+    "last_dispensed_ago": "21:56:45",
     "servo_status": "idle",
-    "today_seed_grams": 156,
-    "today_dispense_cycles": 13
+    "today_seed_grams": 168,
+    "today_dispense_cycles": 14
   },
   "growing": {
     "emoji": "\ud83e\udd66",
@@ -40,8 +40,18 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "40m ago",
+      "time_ago": "6m ago",
       "active": true,
+      "hash": "2EE03FB88196E89A5EEE96860A3BFBD280986330D80A9D3E2FAEEB7989B8AC8B"
+    },
+    {
+      "addr": "nano_1udkdbd...u4r5s6",
+      "full_addr": "nano_1udkdbdhwy7pq7d3ntstnsi5jcut3qahi5up6rzt5s7r5r4945f9pbu4r5s6",
+      "amount": 0.1,
+      "garden_action": "Watered",
+      "feeder_action": "Dispensed",
+      "time_ago": "41m ago",
+      "active": false,
       "hash": "F0C74715C21D4E2C39422212B2C5B93538A2D49F7B0436023A80A03607011E7F"
     },
     {
@@ -50,7 +60,7 @@
       "amount": 0.01,
       "garden_action": "Donated",
       "feeder_action": "--",
-      "time_ago": "57m ago",
+      "time_ago": "58m ago",
       "active": false,
       "hash": "DAE7B55C5EDD6945EC102711ABD13A2177030BC0F4FBB5F5B2FF49EFEDB6E3DD"
     },
@@ -123,16 +133,6 @@
       "time_ago": "3h ago",
       "active": false,
       "hash": "3FCC0B7C1645F8CC560F633735C36D6A9C3D88D8479CD7284C6A3A7F3B673B44"
-    },
-    {
-      "addr": "nano_1udkdbd...u4r5s6",
-      "full_addr": "nano_1udkdbdhwy7pq7d3ntstnsi5jcut3qahi5up6rzt5s7r5r4945f9pbu4r5s6",
-      "amount": 0.1,
-      "garden_action": "Watered",
-      "feeder_action": "Dispensed",
-      "time_ago": "3h ago",
-      "active": false,
-      "hash": "AC99825F30F33FC4071BA9D7408C99C9EF602E8762435481C32EAC64659654CE"
     }
   ]
 }
