@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-08T23:05:03Z",
+  "updated_at": "2026-05-08T23:06:03Z",
   "treasury": {
-    "total_donated": 20.354,
-    "tx_count": 280
+    "total_donated": 20.454,
+    "tx_count": 281
   },
   "garden": {
     "soil_moisture": 65,
@@ -13,12 +13,12 @@
     "total_water_liters": 0.0
   },
   "feeder": {
-    "tray_level": 80,
+    "tray_level": 75,
     "last_dispensed_grams": 12,
-    "last_dispensed_ago": "19:03:38",
+    "last_dispensed_ago": "19:05:07",
     "servo_status": "idle",
-    "today_seed_grams": 204,
-    "today_dispense_cycles": 17
+    "today_seed_grams": 216,
+    "today_dispense_cycles": 18
   },
   "growing": {
     "emoji": "\ud83e\udd66",
@@ -35,13 +35,23 @@
   },
   "recent_tx": [
     {
+      "addr": "nano_1z1uaci...omopit",
+      "full_addr": "nano_1z1uaciweosrj3ipajaauqrz3h87wtz6a199aezo75ewi8p75bcwfzomopit",
+      "amount": 0.1,
+      "garden_action": "Watered",
+      "feeder_action": "Dispensed",
+      "time_ago": "7m ago",
+      "active": true,
+      "hash": "E1BA78CF7166E9B6634D3413282BA2E4D8F492755D2E2821E35AF1CB40968B41"
+    },
+    {
       "addr": "nano_1udkdbd...u4r5s6",
       "full_addr": "nano_1udkdbdhwy7pq7d3ntstnsi5jcut3qahi5up6rzt5s7r5r4945f9pbu4r5s6",
       "amount": 0.01,
       "garden_action": "Donated",
       "feeder_action": "--",
-      "time_ago": "8m ago",
-      "active": true,
+      "time_ago": "9m ago",
+      "active": false,
       "hash": "DECFBFED769F59B7B3D14433F1AD849A70A2BB32A0EA83E5CA5C92B7F8F2191A"
     },
     {
@@ -123,16 +133,6 @@
       "time_ago": "10h ago",
       "active": false,
       "hash": "8F31E88A64D963B754994B6DABC73B0D162CD952C9A47474545181578A9A7342"
-    },
-    {
-      "addr": "nano_1udkdbd...u4r5s6",
-      "full_addr": "nano_1udkdbdhwy7pq7d3ntstnsi5jcut3qahi5up6rzt5s7r5r4945f9pbu4r5s6",
-      "amount": 0.1,
-      "garden_action": "Watered",
-      "feeder_action": "Dispensed",
-      "time_ago": "10h ago",
-      "active": false,
-      "hash": "C7FDA416D61DA1F45BF9C972AD5BC6049ACE4174177EB3CD0645FB705196FBB1"
     }
   ]
 }
