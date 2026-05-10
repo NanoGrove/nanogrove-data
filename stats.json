@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-05-10T22:44:03Z",
+  "updated_at": "2026-05-10T22:45:02Z",
   "treasury": {
     "total_donated": 21.354,
     "tx_count": 290
   },
   "garden": {
-    "soil_moisture": 57,
+    "soil_moisture": 56,
     "valve_status": "closed",
     "last_watered_ago": "--",
     "last_watered_volume": 0,
@@ -28,7 +28,7 @@
     "progress_pct": 57
   },
   "weather": {
-    "temp": 84,
+    "temp": 83,
     "condition": "Clear",
     "rain_chance": 0,
     "precip_mm_hr": 0
