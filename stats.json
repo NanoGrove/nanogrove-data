@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-05-11T19:21:02Z",
+  "updated_at": "2026-05-11T19:22:02Z",
   "treasury": {
     "total_donated": 21.654,
     "tx_count": 293
   },
   "garden": {
-    "soil_moisture": 75,
+    "soil_moisture": 71,
     "valve_status": "closed",
     "last_watered_ago": "--",
     "last_watered_volume": 0,
@@ -15,10 +15,10 @@
   "feeder": {
     "tray_level": 90,
     "last_dispensed_grams": 12,
-    "last_dispensed_ago": "13:22:52",
+    "last_dispensed_ago": "--",
     "servo_status": "idle",
-    "today_seed_grams": 36,
-    "today_dispense_cycles": 3
+    "today_seed_grams": 0,
+    "today_dispense_cycles": 0
   },
   "growing": {
     "emoji": "\ud83e\udd66",
