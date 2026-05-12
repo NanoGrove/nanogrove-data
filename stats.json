@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-12T14:14:03Z",
+  "updated_at": "2026-05-12T14:15:02Z",
   "treasury": {
     "total_donated": 22.154,
     "tx_count": 298
@@ -28,7 +28,7 @@
     "progress_pct": 59
   },
   "weather": {
-    "temp": 52,
+    "temp": 54,
     "condition": "Mostly Clear",
     "rain_chance": 0,
     "precip_mm_hr": 0
