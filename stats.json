@@ -1,16 +1,15 @@
 {
-  "updated_at": "2026-05-14T21:00:02Z",
+  "updated_at": "2026-05-14T21:02:03Z",
   "treasury": {
     "total_donated": 26.074,
     "tx_count": 339
   },
   "garden": {
-    "soil_moisture": 76,
+    "soil_moisture": 78,
     "valve_status": "closed",
     "last_watered_ago": "--",
     "last_watered_volume": 0,
-    "flow_rate": 0.0,
-    "peak_lpm_last_soak": 0.0,
+    "flow_rate": 0,
     "total_water_liters": 0.0
   },
   "feeder": {
@@ -29,8 +28,8 @@
     "progress_pct": 62
   },
   "weather": {
-    "temp": "--",
-    "condition": "",
+    "temp": 60,
+    "condition": "Overcast",
     "rain_chance": 0,
     "precip_mm_hr": 0
   },
@@ -39,9 +38,9 @@
       "addr": "nano_1udkdbd...u4r5s6",
       "full_addr": "nano_1udkdbdhwy7pq7d3ntstnsi5jcut3qahi5up6rzt5s7r5r4945f9pbu4r5s6",
       "amount": 0.01,
-      "garden_action": "Tip",
+      "garden_action": "Donated",
       "feeder_action": "--",
-      "time_ago": "11m ago",
+      "time_ago": "13m ago",
       "active": true,
       "hash": "2C5A955B88FA5EB10A500D5632C9E2278B0495F595A7A40132960FE2051E885F"
     },
@@ -51,7 +50,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "11m ago",
+      "time_ago": "13m ago",
       "active": false,
       "hash": "F3A95D4FBCF900C04857D5A40E3B4D9A0489E48F6314675F238BE74EACC4EC94"
     },
@@ -59,9 +58,9 @@
       "addr": "nano_1udkdbd...u4r5s6",
       "full_addr": "nano_1udkdbdhwy7pq7d3ntstnsi5jcut3qahi5up6rzt5s7r5r4945f9pbu4r5s6",
       "amount": 0.01,
-      "garden_action": "Tip",
+      "garden_action": "Donated",
       "feeder_action": "--",
-      "time_ago": "35m ago",
+      "time_ago": "37m ago",
       "active": false,
       "hash": "9D3F6610243AF42D6EBAE2D0B426CC2F0CC95EEA07FB75B72C6005DB010F5EA6"
     },
@@ -71,7 +70,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "36m ago",
+      "time_ago": "38m ago",
       "active": false,
       "hash": "D843D5A827B888EC5AD45B814303FC6092247DE503B998129EAAC44B0E6B457D"
     },
