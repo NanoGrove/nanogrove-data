@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-05-14T08:48:03Z",
+  "updated_at": "2026-05-14T08:50:03Z",
   "treasury": {
     "total_donated": 25.154,
     "tx_count": 328
   },
   "garden": {
-    "soil_moisture": 55,
+    "soil_moisture": 54,
     "valve_status": "closed",
     "last_watered_ago": "May 13 23:51:40",
     "last_watered_volume": 0.0,
@@ -38,7 +38,7 @@
       "addr": "nano_1udkdbd...u4r5s6",
       "full_addr": "nano_1udkdbdhwy7pq7d3ntstnsi5jcut3qahi5up6rzt5s7r5r4945f9pbu4r5s6",
       "amount": 0.1,
-      "garden_action": "Saved",
+      "garden_action": "Watered",
       "feeder_action": "Dispensed",
       "time_ago": "6h ago",
       "active": true,
