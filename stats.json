@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-05-14T02:08:02Z",
+  "updated_at": "2026-05-14T02:10:03Z",
   "treasury": {
     "total_donated": 24.954,
     "tx_count": 326
   },
   "garden": {
-    "soil_moisture": 53,
+    "soil_moisture": 52,
     "valve_status": "closed",
     "last_watered_ago": "--",
     "last_watered_volume": 0,
@@ -40,7 +40,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "10m ago",
+      "time_ago": "12m ago",
       "active": true,
       "hash": "AD4A6A3BF57487A6A05F03E457485405B7D3E3220C68E3D5E7562F8767B0B2E9"
     },
@@ -50,7 +50,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "10m ago",
+      "time_ago": "13m ago",
       "active": false,
       "hash": "38DF3CD7FCC87797BB68B7692AF40EA6CB7C3181F30F5E30A0267829D3E4B4FE"
     },
@@ -60,7 +60,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "11m ago",
+      "time_ago": "13m ago",
       "active": false,
       "hash": "7B721C283E5603DE2859688601F582EC95AD6F97067CC8149AE24F6A3D65AE74"
     },
@@ -70,7 +70,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "30m ago",
+      "time_ago": "32m ago",
       "active": false,
       "hash": "1CBB7B765450677A26B84076EB08CDF4C3F172BA9F4541AC4DBE0D0AA4CB917F"
     },
@@ -80,7 +80,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "31m ago",
+      "time_ago": "33m ago",
       "active": false,
       "hash": "1554D6315F6605949D57E0C61497CA64B2401BA1711D48845CCC3ACBAFF942EB"
     },
@@ -90,7 +90,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "31m ago",
+      "time_ago": "33m ago",
       "active": false,
       "hash": "DA6D3BB31A488494E6279CA0290A78BA9759C6AF2F441E3F994A9AF0DACFF95B"
     },
