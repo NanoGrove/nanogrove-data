@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-14T10:28:02Z",
+  "updated_at": "2026-05-14T10:30:02Z",
   "treasury": {
     "total_donated": 25.154,
     "tx_count": 328
@@ -28,8 +28,8 @@
     "progress_pct": 62
   },
   "weather": {
-    "temp": 57,
-    "condition": "Overcast",
+    "temp": "--",
+    "condition": "",
     "rain_chance": 0,
     "precip_mm_hr": 0
   },
@@ -38,7 +38,7 @@
       "addr": "nano_1udkdbd...u4r5s6",
       "full_addr": "nano_1udkdbdhwy7pq7d3ntstnsi5jcut3qahi5up6rzt5s7r5r4945f9pbu4r5s6",
       "amount": 0.1,
-      "garden_action": "Watered",
+      "garden_action": "Saved",
       "feeder_action": "Dispensed",
       "time_ago": "7h ago",
       "active": true,
