@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-05-15T10:58:03Z",
+  "updated_at": "2026-05-15T11:00:02Z",
   "treasury": {
     "total_donated": 0.0,
     "tx_count": 0
   },
   "garden": {
-    "soil_moisture": 0,
+    "soil_moisture": 9,
     "valve_status": "closed",
     "last_watered_ago": "--",
     "last_watered_volume": 0,
@@ -28,8 +28,8 @@
     "progress_pct": 85
   },
   "weather": {
-    "temp": 46,
-    "condition": "Clear",
+    "temp": "--",
+    "condition": "",
     "rain_chance": 0,
     "precip_mm_hr": 0
   },
