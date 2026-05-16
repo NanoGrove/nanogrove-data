@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-05-16T15:18:03Z",
+  "updated_at": "2026-05-16T15:19:04Z",
   "treasury": {
     "total_donated": 0.31,
     "tx_count": 4
   },
   "garden": {
-    "soil_moisture": 47,
-    "valve_status": "open",
-    "last_watered_ago": "May 15 17:30:09",
-    "last_watered_volume": 8.9,
+    "soil_moisture": 49,
+    "valve_status": "closed",
+    "last_watered_ago": "May 16 11:19:00",
+    "last_watered_volume": 26.6,
     "flow_rate": 0,
     "total_water_liters": 37.8
   },
