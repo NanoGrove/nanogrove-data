@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-05-17T03:18:02Z",
+  "updated_at": "2026-05-17T03:20:02Z",
   "treasury": {
     "total_donated": 1.41,
     "tx_count": 6
   },
   "garden": {
-    "soil_moisture": 28,
+    "soil_moisture": 27,
     "valve_status": "closed",
     "last_watered_ago": "May 16 22:46:18",
     "last_watered_volume": 31.9,
@@ -40,7 +40,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "4h ago",
+      "time_ago": "5h ago",
       "active": true,
       "hash": "1BF1E0D1A468233008DDA5434E2B85B60B5FA0ECCD6CADD8CEE721A8E0ABB8E3"
     },
