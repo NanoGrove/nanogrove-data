@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-05-18T22:10:03Z",
+  "updated_at": "2026-05-18T22:14:02Z",
   "treasury": {
     "total_donated": 2.94,
     "tx_count": 24
   },
   "garden": {
-    "soil_moisture": 37,
+    "soil_moisture": 36,
     "valve_status": "closed",
     "last_watered_ago": "May 17 12:37:47",
     "last_watered_volume": 5.0,
@@ -15,7 +15,7 @@
     "total_water_liters": 118.6
   },
   "feeder": {
-    "tray_level": 0,
+    "tray_level": 100,
     "last_dispensed_grams": 12,
     "last_dispensed_ago": "17:40:16",
     "servo_status": "idle",
@@ -42,7 +42,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "31m ago",
+      "time_ago": "35m ago",
       "active": true,
       "hash": "953705556503A68E3954F2A3739853BCBEEB40FEB81C6BB3103BB132AF9F17F3"
     },
@@ -52,7 +52,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "36m ago",
+      "time_ago": "40m ago",
       "active": false,
       "hash": "9547881E3317D8B2B3F06BE3C30459F51AB4C13F45EFAA8A50482B96CD8AB241"
     },
@@ -62,7 +62,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "37m ago",
+      "time_ago": "41m ago",
       "active": false,
       "hash": "309D9D3305074CD2390CB90205A7EF04DB16B7D492B2BD8AAD78CD4873BFB8B1"
     },
@@ -72,7 +72,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "38m ago",
+      "time_ago": "42m ago",
       "active": false,
       "hash": "A11D8CB54B7A99D1161E444241D9A2BC0C169659FAF1BCF65F1B0AF1FD15AB66"
     },
@@ -82,7 +82,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "1h ago",
+      "time_ago": "2h ago",
       "active": false,
       "hash": "43745624100B8A735F4042BF95550AC64D79A5ACBF136D08D15A140BB6E5C747"
     },
@@ -92,7 +92,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "1h ago",
+      "time_ago": "2h ago",
       "active": false,
       "hash": "01D259E78D89054BD9660A50D6D7CBEA18AAECDC2ED0A6FC5CD4DDE2E74D45A8"
     },
@@ -102,7 +102,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "1h ago",
+      "time_ago": "2h ago",
       "active": false,
       "hash": "92789612B291BB615B6D9A9B73A832F499BA1D4378DD8433C4718D1E78493A39"
     },
@@ -112,7 +112,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "1h ago",
+      "time_ago": "2h ago",
       "active": false,
       "hash": "4BE6A7F9D6F4CA579760F41D8569FF70E92D6BFBA98A7B55C362F81C2AA162E0"
     },
@@ -122,7 +122,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "1h ago",
+      "time_ago": "2h ago",
       "active": false,
       "hash": "FFEE6029F61E5DC6A5CD6FFEA8437A74C16B791E177EB9FABC87831FAB7B1782"
     },
