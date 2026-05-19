@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-05-19T22:42:03Z",
+  "updated_at": "2026-05-19T22:43:59Z",
   "treasury": {
-    "total_donated": 22.943,
-    "tx_count": 56
+    "total_donated": 23.043,
+    "tx_count": 57
   },
   "garden": {
-    "soil_moisture": 68,
+    "soil_moisture": 67,
     "valve_status": "closed",
     "last_watered_ago": "May 19 14:55:35",
     "last_watered_volume": 1.0,
@@ -15,9 +15,9 @@
     "total_water_liters": 153.0
   },
   "feeder": {
-    "tray_level": 55,
+    "tray_level": 50,
     "last_dispensed_grams": 21,
-    "last_dispensed_ago": "17:02:50",
+    "last_dispensed_ago": "18:43:51",
     "servo_status": "idle",
     "today_seed_grams": 228,
     "today_dispense_cycles": 19
@@ -37,13 +37,23 @@
   },
   "recent_tx": [
     {
+      "addr": "nano_1hhdb98...8syjh5",
+      "full_addr": "nano_1hhdb98c6jo1rdxu4n81iusu8upkigr3y131kq9kx81fyeimjzbkgu8syjh5",
+      "amount": 0.1,
+      "garden_action": "Saved",
+      "feeder_action": "Dispensed",
+      "time_ago": "4s ago",
+      "active": true,
+      "hash": "73AA7952D2954D41CB85F2843363A2B9A999DA14BA52048C06E5553E3F865805"
+    },
+    {
       "addr": "nano_1objga5...bwduuk",
       "full_addr": "nano_1objga5xazmcckn9b4qxkwdd5hnefaex886a3ixkhxspw4tkpup3wmbwduuk",
       "amount": 1.0,
       "garden_action": "Saved",
       "feeder_action": "Dispensed",
       "time_ago": "1h ago",
-      "active": true,
+      "active": false,
       "hash": "A6B8E2CDF90127802E8605E3CD46DFB0E2792706FC1D68CDDD6DCCDC35E0B00E"
     },
     {
@@ -125,16 +135,6 @@
       "time_ago": "5h ago",
       "active": false,
       "hash": "5E4729602F3B82EE363DAECD12873A2B0874E46F2D7322C6BA2D0568DFFA7951"
-    },
-    {
-      "addr": "nano_1zbpioy...gkpxi8",
-      "full_addr": "nano_1zbpioyyopmm7cn1c8h81b67yob4kfb38z8udxwimesaxdkb4fjpisgkpxi8",
-      "amount": 0.1,
-      "garden_action": "Watered",
-      "feeder_action": "Dispensed",
-      "time_ago": "5h ago",
-      "active": false,
-      "hash": "C281872938FC4C41996F7ABD81CEDA48DE96EC831B2167DCBF949F9D6DE61899"
     }
   ]
 }
