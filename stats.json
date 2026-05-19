@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-19T17:56:02Z",
+  "updated_at": "2026-05-19T17:59:23Z",
   "treasury": {
-    "total_donated": 21.533,
-    "tx_count": 50
+    "total_donated": 21.543,
+    "tx_count": 51
   },
   "garden": {
     "soil_moisture": 55,
@@ -17,10 +17,10 @@
   "feeder": {
     "tray_level": 80,
     "last_dispensed_grams": 21,
-    "last_dispensed_ago": "13:44:09",
+    "last_dispensed_ago": "13:59:18",
     "servo_status": "idle",
-    "today_seed_grams": 240,
-    "today_dispense_cycles": 20
+    "today_seed_grams": 228,
+    "today_dispense_cycles": 19
   },
   "growing": {
     "emoji": "\ud83e\udd66",
@@ -37,13 +37,23 @@
   },
   "recent_tx": [
     {
+      "addr": "nano_1udkdbd...u4r5s6",
+      "full_addr": "nano_1udkdbdhwy7pq7d3ntstnsi5jcut3qahi5up6rzt5s7r5r4945f9pbu4r5s6",
+      "amount": 0.01,
+      "garden_action": "Tip",
+      "feeder_action": "--",
+      "time_ago": "6m ago",
+      "active": true,
+      "hash": "4EF347FC88A7453476F4FD4EF86C56C826DBF4F3F5700D5827E0E52E8957B918"
+    },
+    {
       "addr": "nano_3hr3ot6...3zgsac",
       "full_addr": "nano_3hr3ot6pjio6kwfkcs969rubpgktkf6jg3zwdcbb391hpwiz4bdkha3zgsac",
       "amount": 1.0,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "18m ago",
-      "active": true,
+      "time_ago": "21m ago",
+      "active": false,
       "hash": "84291B3127D9F987FF3A5CB66996D0A1DE45F1B439F3871A15CDB9717A44A652"
     },
     {
@@ -52,7 +62,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "18m ago",
+      "time_ago": "21m ago",
       "active": false,
       "hash": "AB593DADD3987D68CAAA88A4391492655F7D6637B32596C1A0AE8B574E3577B1"
     },
@@ -62,7 +72,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "25m ago",
+      "time_ago": "28m ago",
       "active": false,
       "hash": "5E4729602F3B82EE363DAECD12873A2B0874E46F2D7322C6BA2D0568DFFA7951"
     },
@@ -72,7 +82,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "25m ago",
+      "time_ago": "29m ago",
       "active": false,
       "hash": "C281872938FC4C41996F7ABD81CEDA48DE96EC831B2167DCBF949F9D6DE61899"
     },
@@ -82,7 +92,7 @@
       "amount": 1.0,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "44m ago",
+      "time_ago": "48m ago",
       "active": false,
       "hash": "7D10045C984F232504D9A31B367A6070B38974398970B3645D9B5EA4CDC1C99D"
     },
@@ -92,7 +102,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "49m ago",
+      "time_ago": "52m ago",
       "active": false,
       "hash": "CD0A4CF8F42DFE61C0FF76FE130B4C466B0A2DE0726F7D7A7F7207F6DB248EA2"
     },
@@ -102,7 +112,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "49m ago",
+      "time_ago": "52m ago",
       "active": false,
       "hash": "993B8D222A508D9E805813D57468D45516B966764AEEAD9E094B724FEE034521"
     },
@@ -112,7 +122,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "56m ago",
+      "time_ago": "59m ago",
       "active": false,
       "hash": "35DF77CE295A5B97E76233E7645767FFE5590734297BDBB0FC7BEBA8833B7394"
     },
@@ -122,19 +132,9 @@
       "amount": 0.133,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "58m ago",
-      "active": false,
-      "hash": "F7D783359195FF72E3C938CAFD110A1403EBD7E0BEA5F4DAB883FFB45B6BD87F"
-    },
-    {
-      "addr": "nano_37y34wk...ay93b4",
-      "full_addr": "nano_37y34wkjoxjuosi9x9epcfoue6ggbhbahmg1aiphrd4ggdibpbnmp1ay93b4",
-      "amount": 10.0,
-      "garden_action": "Watered",
-      "feeder_action": "Dispensed",
       "time_ago": "1h ago",
       "active": false,
-      "hash": "883E8BB1BDBE14274FC9B3EC9ACC506287EFE71C86EB1948F8704711F9BB8115"
+      "hash": "F7D783359195FF72E3C938CAFD110A1403EBD7E0BEA5F4DAB883FFB45B6BD87F"
     }
   ]
 }
