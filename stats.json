@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-19T12:06:03Z",
+  "updated_at": "2026-05-19T12:08:02Z",
   "treasury": {
     "total_donated": 3.24,
     "tx_count": 27
@@ -10,7 +10,7 @@
     "last_watered_ago": "May 19 07:03:01",
     "last_watered_volume": 0.1,
     "flow_rate": 0.0,
-    "last_flow_peak": 1.2,
+    "last_flow_peak": 0.13,
     "peak_lpm_last_soak": 1.2,
     "total_water_liters": 120.8
   },
