@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-05-19T02:20:02Z",
+  "updated_at": "2026-05-19T10:59:16Z",
   "treasury": {
-    "total_donated": 3.04,
+    "total_donated": 3.14,
     "tx_count": 25
   },
   "garden": {
-    "soil_moisture": 35,
+    "soil_moisture": 22,
     "valve_status": "closed",
-    "last_watered_ago": "May 18 18:29:36",
-    "last_watered_volume": 1.4,
+    "last_watered_ago": "May 19 06:59:12",
+    "last_watered_volume": 0.3,
     "flow_rate": 0.0,
-    "last_flow_peak": 0,
-    "peak_lpm_last_soak": 16.93,
-    "total_water_liters": 120.0
+    "last_flow_peak": 11.47,
+    "peak_lpm_last_soak": 11.47,
+    "total_water_liters": 120.3
   },
   "feeder": {
-    "tray_level": 95,
+    "tray_level": 90,
     "last_dispensed_grams": 21,
-    "last_dispensed_ago": "18:29:21",
+    "last_dispensed_ago": "06:58:57",
     "servo_status": "idle",
     "today_seed_grams": 204,
     "today_dispense_cycles": 17
@@ -25,12 +25,12 @@
   "growing": {
     "emoji": "\ud83e\udd66",
     "plant": "Broccoli",
-    "days_since_sown": 84,
-    "days_to_harvest": 11,
-    "progress_pct": 88
+    "days_since_sown": 85,
+    "days_to_harvest": 10,
+    "progress_pct": 89
   },
   "weather": {
-    "temp": 81,
+    "temp": 70,
     "condition": "Clear",
     "rain_chance": 0,
     "precip_mm_hr": 0
@@ -42,7 +42,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "3h ago",
+      "time_ago": "12h ago",
       "active": true,
       "hash": "3BAD6DB8121FCEFA36768A28A3E474BFFF4EBE18B4816B4F0ADA1EC3C540532E"
     },
@@ -52,7 +52,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "4h ago",
+      "time_ago": "13h ago",
       "active": false,
       "hash": "953705556503A68E3954F2A3739853BCBEEB40FEB81C6BB3103BB132AF9F17F3"
     },
@@ -62,7 +62,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "4h ago",
+      "time_ago": "13h ago",
       "active": false,
       "hash": "9547881E3317D8B2B3F06BE3C30459F51AB4C13F45EFAA8A50482B96CD8AB241"
     },
@@ -72,7 +72,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "4h ago",
+      "time_ago": "13h ago",
       "active": false,
       "hash": "309D9D3305074CD2390CB90205A7EF04DB16B7D492B2BD8AAD78CD4873BFB8B1"
     },
@@ -82,7 +82,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "4h ago",
+      "time_ago": "13h ago",
       "active": false,
       "hash": "A11D8CB54B7A99D1161E444241D9A2BC0C169659FAF1BCF65F1B0AF1FD15AB66"
     },
@@ -92,7 +92,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "6h ago",
+      "time_ago": "14h ago",
       "active": false,
       "hash": "43745624100B8A735F4042BF95550AC64D79A5ACBF136D08D15A140BB6E5C747"
     },
@@ -102,7 +102,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "6h ago",
+      "time_ago": "14h ago",
       "active": false,
       "hash": "01D259E78D89054BD9660A50D6D7CBEA18AAECDC2ED0A6FC5CD4DDE2E74D45A8"
     },
@@ -112,7 +112,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "6h ago",
+      "time_ago": "14h ago",
       "active": false,
       "hash": "92789612B291BB615B6D9A9B73A832F499BA1D4378DD8433C4718D1E78493A39"
     },
@@ -122,7 +122,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "6h ago",
+      "time_ago": "14h ago",
       "active": false,
       "hash": "4BE6A7F9D6F4CA579760F41D8569FF70E92D6BFBA98A7B55C362F81C2AA162E0"
     },
@@ -132,7 +132,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "6h ago",
+      "time_ago": "14h ago",
       "active": false,
       "hash": "FFEE6029F61E5DC6A5CD6FFEA8437A74C16B791E177EB9FABC87831FAB7B1782"
     }
