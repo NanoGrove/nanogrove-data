@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-19T23:58:39Z",
+  "updated_at": "2026-05-19T23:59:00Z",
   "treasury": {
-    "total_donated": 23.4531,
-    "tx_count": 61
+    "total_donated": 23.5531,
+    "tx_count": 62
   },
   "garden": {
     "soil_moisture": 68,
@@ -15,9 +15,9 @@
     "total_water_liters": 153.0
   },
   "feeder": {
-    "tray_level": 40,
+    "tray_level": 35,
     "last_dispensed_grams": 21,
-    "last_dispensed_ago": "19:58:30",
+    "last_dispensed_ago": "19:58:52",
     "servo_status": "idle",
     "today_seed_grams": 204,
     "today_dispense_cycles": 17
@@ -42,8 +42,18 @@
       "amount": 0.1,
       "garden_action": "Saved",
       "feeder_action": "Dispensed",
-      "time_ago": "5s ago",
+      "time_ago": "4s ago",
       "active": true,
+      "hash": "E1E82412D0E1FA744F99F491CD421E436242F6D35FF4078C96338ADCD4677CBC"
+    },
+    {
+      "addr": "nano_1qtgb83...c5fmb3",
+      "full_addr": "nano_1qtgb83s1fn6krxdti57iuewbhothpeaixbwf91ity8sf7cxbgimzgc5fmb3",
+      "amount": 0.1,
+      "garden_action": "Saved",
+      "feeder_action": "Dispensed",
+      "time_ago": "26s ago",
+      "active": false,
       "hash": "0C28F31EB1DEE9075E378A575293F95D941AFABEDDBBB1E1C7680FB5E2DD3A1E"
     },
     {
@@ -52,7 +62,7 @@
       "amount": 0.0001,
       "garden_action": "Tip",
       "feeder_action": "--",
-      "time_ago": "14m ago",
+      "time_ago": "15m ago",
       "active": false,
       "hash": "13C41D2651B0BC151841689BBE07DA3DA1991CD751F96E33ED5406465F452EA0"
     },
@@ -125,16 +135,6 @@
       "time_ago": "5h ago",
       "active": false,
       "hash": "659C11E68E4157C31F3C5D4C788377EAA0254221CF377AD95FCD7A7B21ADC9A3"
-    },
-    {
-      "addr": "nano_378z4nc...spp76q",
-      "full_addr": "nano_378z4ncpc17fz9cuqxbdt8kiijpxkf6fysenbfgkk7ybsqbf1qzdrbspp76q",
-      "amount": 0.1,
-      "garden_action": "Watered",
-      "feeder_action": "Dispensed",
-      "time_ago": "5h ago",
-      "active": false,
-      "hash": "679B6D6D74D53754FA52005958E9C65DAE80BF4A27F959F65417AC81CCAB804D"
     }
   ]
 }
