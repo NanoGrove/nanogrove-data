@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-05-19T17:44:11Z",
+  "updated_at": "2026-05-19T17:44:18Z",
   "treasury": {
     "total_donated": 21.533,
-    "tx_count": 49
+    "tx_count": 50
   },
   "garden": {
     "soil_moisture": 56,
@@ -15,9 +15,9 @@
     "total_water_liters": 151.0
   },
   "feeder": {
-    "tray_level": 85,
+    "tray_level": 80,
     "last_dispensed_grams": 21,
-    "last_dispensed_ago": "13:44:02",
+    "last_dispensed_ago": "13:44:09",
     "servo_status": "idle",
     "today_seed_grams": 240,
     "today_dispense_cycles": 20
@@ -37,13 +37,23 @@
   },
   "recent_tx": [
     {
+      "addr": "nano_3hr3ot6...3zgsac",
+      "full_addr": "nano_3hr3ot6pjio6kwfkcs969rubpgktkf6jg3zwdcbb391hpwiz4bdkha3zgsac",
+      "amount": 1.0,
+      "garden_action": "Watered",
+      "feeder_action": "Dispensed",
+      "time_ago": "6m ago",
+      "active": true,
+      "hash": "84291B3127D9F987FF3A5CB66996D0A1DE45F1B439F3871A15CDB9717A44A652"
+    },
+    {
       "addr": "nano_1zbpioy...gkpxi8",
       "full_addr": "nano_1zbpioyyopmm7cn1c8h81b67yob4kfb38z8udxwimesaxdkb4fjpisgkpxi8",
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
       "time_ago": "6m ago",
-      "active": true,
+      "active": false,
       "hash": "AB593DADD3987D68CAAA88A4391492655F7D6637B32596C1A0AE8B574E3577B1"
     },
     {
@@ -125,16 +135,6 @@
       "time_ago": "1h ago",
       "active": false,
       "hash": "883E8BB1BDBE14274FC9B3EC9ACC506287EFE71C86EB1948F8704711F9BB8115"
-    },
-    {
-      "addr": "nano_16f45dh...nh5hgg",
-      "full_addr": "nano_16f45dhwgudowj1bqdifxit7jrweidqoty73qdgqjft1668apojoohnh5hgg",
-      "amount": 1.0,
-      "garden_action": "Watered",
-      "feeder_action": "Dispensed",
-      "time_ago": "1h ago",
-      "active": false,
-      "hash": "814D7024633ECDEA8621D07C6AAFAE66F53A687F10F87A6CA021C4EBD04B8153"
     }
   ]
 }
