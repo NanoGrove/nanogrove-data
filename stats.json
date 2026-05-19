@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-05-19T15:56:03Z",
+  "updated_at": "2026-05-19T15:58:02Z",
   "treasury": {
     "total_donated": 7.8,
     "tx_count": 39
   },
   "garden": {
-    "soil_moisture": 50,
+    "soil_moisture": 53,
     "valve_status": "closed",
     "last_watered_ago": "May 19 11:55:45",
     "last_watered_volume": 1.0,
@@ -42,7 +42,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "7m ago",
+      "time_ago": "9m ago",
       "active": true,
       "hash": "13078C23CFEEE90CE75AB9348E6FB4E7C4346F0F9A6BFA8BB486964912A3B5D9"
     },
@@ -52,7 +52,7 @@
       "amount": 1.33,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "10m ago",
+      "time_ago": "12m ago",
       "active": false,
       "hash": "4C83715C30DFD2F2BFFE63336706DA403631BBB4886E96B3124D6DF3CC0A741F"
     },
@@ -62,7 +62,7 @@
       "amount": 1.33,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "10m ago",
+      "time_ago": "12m ago",
       "active": false,
       "hash": "313091660BBEB5DA12A61D8EEB480AB745D7A4F2DBB82FD31B35957EA11654D0"
     },
@@ -72,7 +72,7 @@
       "amount": 1.0,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "28m ago",
+      "time_ago": "30m ago",
       "active": false,
       "hash": "445516575EDD4D7027A96B3EA1C83F7181A0E39F2A05722A4C65DF00BDE1904E"
     },
@@ -122,7 +122,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "1h ago",
+      "time_ago": "2h ago",
       "active": false,
       "hash": "108DC74A908DFDFAF689C9545381DCF316D1478FD888D0F52350D36C94AF1061"
     },
