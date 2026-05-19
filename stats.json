@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-05-19T23:40:02Z",
+  "updated_at": "2026-05-19T23:40:13Z",
   "treasury": {
-    "total_donated": 23.043,
-    "tx_count": 57
+    "total_donated": 23.343,
+    "tx_count": 58
   },
   "garden": {
-    "soil_moisture": 65,
+    "soil_moisture": 64,
     "valve_status": "closed",
     "last_watered_ago": "May 19 14:55:35",
     "last_watered_volume": 1.0,
@@ -15,9 +15,9 @@
     "total_water_liters": 153.0
   },
   "feeder": {
-    "tray_level": 50,
+    "tray_level": 45,
     "last_dispensed_grams": 21,
-    "last_dispensed_ago": "18:43:51",
+    "last_dispensed_ago": "19:40:02",
     "servo_status": "idle",
     "today_seed_grams": 228,
     "today_dispense_cycles": 19
@@ -37,13 +37,23 @@
   },
   "recent_tx": [
     {
+      "addr": "nano_1oqiq4p...nwkb4s",
+      "full_addr": "nano_1oqiq4pwx1yun94xg3zyzsnosep4ro7tzqud1wgc9w7osw9quuzuprnwkb4s",
+      "amount": 0.3,
+      "garden_action": "Saved",
+      "feeder_action": "Dispensed",
+      "time_ago": "7s ago",
+      "active": true,
+      "hash": "40C142E28E3599EE484CE40E573CAE94FE112A54B597ED4544714C0F2D9E0577"
+    },
+    {
       "addr": "nano_1hhdb98...8syjh5",
       "full_addr": "nano_1hhdb98c6jo1rdxu4n81iusu8upkigr3y131kq9kx81fyeimjzbkgu8syjh5",
       "amount": 0.1,
       "garden_action": "Saved",
       "feeder_action": "Dispensed",
       "time_ago": "56m ago",
-      "active": true,
+      "active": false,
       "hash": "73AA7952D2954D41CB85F2843363A2B9A999DA14BA52048C06E5553E3F865805"
     },
     {
@@ -125,16 +135,6 @@
       "time_ago": "5h ago",
       "active": false,
       "hash": "AB593DADD3987D68CAAA88A4391492655F7D6637B32596C1A0AE8B574E3577B1"
-    },
-    {
-      "addr": "nano_1zbpioy...gkpxi8",
-      "full_addr": "nano_1zbpioyyopmm7cn1c8h81b67yob4kfb38z8udxwimesaxdkb4fjpisgkpxi8",
-      "amount": 0.1,
-      "garden_action": "Watered",
-      "feeder_action": "Dispensed",
-      "time_ago": "6h ago",
-      "active": false,
-      "hash": "5E4729602F3B82EE363DAECD12873A2B0874E46F2D7322C6BA2D0568DFFA7951"
     }
   ]
 }
