@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-05-19T17:16:46Z",
+  "updated_at": "2026-05-19T17:18:02Z",
   "treasury": {
-    "total_donated": 19.233,
+    "total_donated": 20.233,
     "tx_count": 45
   },
   "garden": {
-    "soil_moisture": 52,
+    "soil_moisture": 53,
     "valve_status": "closed",
     "last_watered_ago": "May 19 13:16:43",
     "last_watered_volume": 0.6,
-    "flow_rate": 0.13,
-    "last_flow_peak": 9.47,
+    "flow_rate": 13.2,
+    "last_flow_peak": 13.2,
     "peak_lpm_last_soak": 16.67,
-    "total_water_liters": 148.2
+    "total_water_liters": 148.4
   },
   "feeder": {
     "tray_level": 0,
@@ -42,7 +42,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "9m ago",
+      "time_ago": "11m ago",
       "active": true,
       "hash": "CD0A4CF8F42DFE61C0FF76FE130B4C466B0A2DE0726F7D7A7F7207F6DB248EA2"
     },
@@ -52,7 +52,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "9m ago",
+      "time_ago": "11m ago",
       "active": false,
       "hash": "993B8D222A508D9E805813D57468D45516B966764AEEAD9E094B724FEE034521"
     },
@@ -62,7 +62,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "16m ago",
+      "time_ago": "18m ago",
       "active": false,
       "hash": "35DF77CE295A5B97E76233E7645767FFE5590734297BDBB0FC7BEBA8833B7394"
     },
@@ -72,7 +72,7 @@
       "amount": 0.133,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "19m ago",
+      "time_ago": "20m ago",
       "active": false,
       "hash": "F7D783359195FF72E3C938CAFD110A1403EBD7E0BEA5F4DAB883FFB45B6BD87F"
     },
@@ -82,7 +82,7 @@
       "amount": 10.0,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "46m ago",
+      "time_ago": "47m ago",
       "active": false,
       "hash": "883E8BB1BDBE14274FC9B3EC9ACC506287EFE71C86EB1948F8704711F9BB8115"
     },
