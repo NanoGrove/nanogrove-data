@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-05-20T22:48:02Z",
+  "updated_at": "2026-05-20T22:48:35Z",
   "treasury": {
     "total_donated": 25.7441,
-    "tx_count": 80
+    "tx_count": 81
   },
   "garden": {
-    "soil_moisture": 72,
+    "soil_moisture": 76,
     "valve_status": "closed",
     "last_watered_ago": "May 20 11:24:31",
     "last_watered_volume": 1.1,
@@ -17,10 +17,10 @@
   "feeder": {
     "tray_level": 70,
     "last_dispensed_grams": 21,
-    "last_dispensed_ago": "16:37:35",
+    "last_dispensed_ago": "18:48:30",
     "servo_status": "idle",
-    "today_seed_grams": 228,
-    "today_dispense_cycles": 19
+    "today_seed_grams": 216,
+    "today_dispense_cycles": 18
   },
   "growing": {
     "emoji": "\ud83e\udd66",
@@ -37,13 +37,23 @@
   },
   "recent_tx": [
     {
+      "addr": "nano_1udkdbd...u4r5s6",
+      "full_addr": "nano_1udkdbdhwy7pq7d3ntstnsi5jcut3qahi5up6rzt5s7r5r4945f9pbu4r5s6",
+      "amount": 0.0,
+      "garden_action": "Tip",
+      "feeder_action": "--",
+      "time_ago": "5s ago",
+      "active": true,
+      "hash": "B5BAABC405404405D40717017E9C9247101BAEE6B7C1B9A96C32FDD30EC8F356"
+    },
+    {
       "addr": "nano_1745tar...p4hn6b",
       "full_addr": "nano_1745taredmbqrgrzwsgcscggwckzpitqusqubuan5r67im86zokambp4hn6b",
       "amount": 0.19,
       "garden_action": "Saved",
       "feeder_action": "Dispensed",
       "time_ago": "2h ago",
-      "active": true,
+      "active": false,
       "hash": "FD1728A438EFEE7B30D9564B9BDE55517B704D9631A43F8C303459A34079B4BD"
     },
     {
@@ -125,16 +135,6 @@
       "time_ago": "10h ago",
       "active": false,
       "hash": "9E345ABB7174603207FB4E7D6BF31357A2A1431F456ADABEF2070D53A190714E"
-    },
-    {
-      "addr": "nano_1objga5...bwduuk",
-      "full_addr": "nano_1objga5xazmcckn9b4qxkwdd5hnefaex886a3ixkhxspw4tkpup3wmbwduuk",
-      "amount": 0.1,
-      "garden_action": "Watered",
-      "feeder_action": "Dispensed",
-      "time_ago": "10h ago",
-      "active": false,
-      "hash": "9D8825AD323E0CB5E1F8774BFCA62DA0432D6976AE57DB17EF3CF4549D02355F"
     }
   ]
 }
