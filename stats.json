@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-05-20T23:44:03Z",
+  "updated_at": "2026-05-20T23:44:57Z",
   "treasury": {
-    "total_donated": 25.7441,
-    "tx_count": 81
+    "total_donated": 26.7441,
+    "tx_count": 82
   },
   "garden": {
-    "soil_moisture": 80,
+    "soil_moisture": 73,
     "valve_status": "closed",
     "last_watered_ago": "May 20 11:24:31",
     "last_watered_volume": 1.1,
@@ -15,9 +15,9 @@
     "total_water_liters": 203.9
   },
   "feeder": {
-    "tray_level": 70,
+    "tray_level": 65,
     "last_dispensed_grams": 21,
-    "last_dispensed_ago": "18:48:30",
+    "last_dispensed_ago": "19:44:48",
     "servo_status": "idle",
     "today_seed_grams": 216,
     "today_dispense_cycles": 18
@@ -37,13 +37,23 @@
   },
   "recent_tx": [
     {
+      "addr": "nano_1z1uaci...omopit",
+      "full_addr": "nano_1z1uaciweosrj3ipajaauqrz3h87wtz6a199aezo75ewi8p75bcwfzomopit",
+      "amount": 1.0,
+      "garden_action": "Saved",
+      "feeder_action": "Dispensed",
+      "time_ago": "4s ago",
+      "active": true,
+      "hash": "DDFDA94ADA92996C9B4BCF24113072873FF8DECDC3A65B3D23C84C68A5092FE5"
+    },
+    {
       "addr": "nano_1udkdbd...u4r5s6",
       "full_addr": "nano_1udkdbdhwy7pq7d3ntstnsi5jcut3qahi5up6rzt5s7r5r4945f9pbu4r5s6",
       "amount": 0.0,
       "garden_action": "Tip",
       "feeder_action": "--",
-      "time_ago": "55m ago",
-      "active": true,
+      "time_ago": "56m ago",
+      "active": false,
       "hash": "B5BAABC405404405D40717017E9C9247101BAEE6B7C1B9A96C32FDD30EC8F356"
     },
     {
@@ -125,16 +135,6 @@
       "time_ago": "11h ago",
       "active": false,
       "hash": "C0E4444A816D1C7D9F379892AB86FD7FD64A54C069A4759FF3394ED6EA787F79"
-    },
-    {
-      "addr": "nano_1objga5...bwduuk",
-      "full_addr": "nano_1objga5xazmcckn9b4qxkwdd5hnefaex886a3ixkhxspw4tkpup3wmbwduuk",
-      "amount": 0.1,
-      "garden_action": "Watered",
-      "feeder_action": "Dispensed",
-      "time_ago": "11h ago",
-      "active": false,
-      "hash": "9E345ABB7174603207FB4E7D6BF31357A2A1431F456ADABEF2070D53A190714E"
     }
   ]
 }
