@@ -9,7 +9,7 @@
     "valve_status": "closed",
     "last_watered_ago": "May 20 08:55:59",
     "last_watered_volume": 1.0,
-    "flow_rate": 0.53,
+    "flow_rate": 0.0,
     "last_flow_peak": 12.13,
     "peak_lpm_last_soak": 12.53,
     "total_water_liters": 191.7
