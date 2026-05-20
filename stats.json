@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-05-20T12:25:11Z",
+  "updated_at": "2026-05-20T12:26:02Z",
   "treasury": {
     "total_donated": 24.6531,
     "tx_count": 73
   },
   "garden": {
-    "soil_moisture": 30,
+    "soil_moisture": 31,
     "valve_status": "open",
     "last_watered_ago": "May 20 08:08:03",
     "last_watered_volume": 0.9,
-    "flow_rate": 12.13,
+    "flow_rate": 2.8,
     "last_flow_peak": 12.53,
     "peak_lpm_last_soak": 12.53,
-    "total_water_liters": 182.2
+    "total_water_liters": 184.8
   },
   "feeder": {
-    "tray_level": 0,
+    "tray_level": 100,
     "last_dispensed_grams": 21,
     "last_dispensed_ago": "08:07:48",
     "servo_status": "idle",
@@ -52,7 +52,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "22m ago",
+      "time_ago": "23m ago",
       "active": false,
       "hash": "9E345ABB7174603207FB4E7D6BF31357A2A1431F456ADABEF2070D53A190714E"
     },
@@ -72,7 +72,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "23m ago",
+      "time_ago": "24m ago",
       "active": false,
       "hash": "C9A9085EE197392135FFB335620F7C25349E63D86C8ABD77ACB8FA1988F04960"
     },
@@ -82,7 +82,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "25m ago",
+      "time_ago": "26m ago",
       "active": false,
       "hash": "8D1B4293B830F0651EECDFA4BF8AE796C75542D58CD953FC7C2E661384F24B57"
     },
@@ -92,7 +92,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "27m ago",
+      "time_ago": "28m ago",
       "active": false,
       "hash": "8DD5A390BAD883DD0748A976B4CC06A8C190EEF721AA29257DC62FAC1986A2FC"
     },
@@ -102,7 +102,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "29m ago",
+      "time_ago": "30m ago",
       "active": false,
       "hash": "315958E9808D9E810B36EAD97640B1B19447543593CA04337B4CA3C3FF6272E7"
     },
