@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-20T16:24:02Z",
+  "updated_at": "2026-05-20T16:26:02Z",
   "treasury": {
     "total_donated": 25.4541,
     "tx_count": 78
@@ -42,7 +42,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "59m ago",
+      "time_ago": "1h ago",
       "active": true,
       "hash": "789E086310CE366F9A1ECEAE32D338FDBB84E60CE7C50AC69E33C46DC39D1351"
     },
