@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-05-20T03:58:03Z",
+  "updated_at": "2026-05-20T04:00:02Z",
   "treasury": {
     "total_donated": 23.7531,
     "tx_count": 64
   },
   "garden": {
-    "soil_moisture": 52,
+    "soil_moisture": 48,
     "valve_status": "closed",
     "last_watered_ago": "May 19 23:01:43",
     "last_watered_volume": 0.9,
@@ -25,13 +25,13 @@
   "growing": {
     "emoji": "\ud83e\udd66",
     "plant": "Broccoli",
-    "days_since_sown": 85,
-    "days_to_harvest": 10,
-    "progress_pct": 89
+    "days_since_sown": 86,
+    "days_to_harvest": 9,
+    "progress_pct": 91
   },
   "weather": {
-    "temp": 77,
-    "condition": "Clear",
+    "temp": "--",
+    "condition": "",
     "rain_chance": 0,
     "precip_mm_hr": 0
   },
@@ -42,7 +42,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "56m ago",
+      "time_ago": "58m ago",
       "active": true,
       "hash": "7F9AB790CB75A195B2686E2A3E28A9EBBE165B6D0BDC6F2C5C98F4D077B204DB"
     },
@@ -52,7 +52,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "57m ago",
+      "time_ago": "59m ago",
       "active": false,
       "hash": "AA4635B5E2514DCCDB0A1ABC6B366B191FC5C7CAA553B45A290352C296ABEB8B"
     },
@@ -62,7 +62,7 @@
       "amount": 0.1,
       "garden_action": "Saved",
       "feeder_action": "Dispensed",
-      "time_ago": "3h ago",
+      "time_ago": "4h ago",
       "active": false,
       "hash": "E1E82412D0E1FA744F99F491CD421E436242F6D35FF4078C96338ADCD4677CBC"
     },
@@ -72,7 +72,7 @@
       "amount": 0.1,
       "garden_action": "Saved",
       "feeder_action": "Dispensed",
-      "time_ago": "3h ago",
+      "time_ago": "4h ago",
       "active": false,
       "hash": "0C28F31EB1DEE9075E378A575293F95D941AFABEDDBBB1E1C7680FB5E2DD3A1E"
     },
