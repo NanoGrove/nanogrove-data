@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-05-23T19:02:02Z",
+  "updated_at": "2026-05-23T19:02:54Z",
   "treasury": {
-    "total_donated": 28.0941,
-    "tx_count": 93
+    "total_donated": 28.2441,
+    "tx_count": 94
   },
   "garden": {
-    "soil_moisture": 64,
+    "soil_moisture": 63,
     "valve_status": "closed",
     "last_watered_ago": "May 23 13:18:22",
     "last_watered_volume": 0.1,
@@ -15,9 +15,9 @@
     "total_water_liters": 208.0
   },
   "feeder": {
-    "tray_level": 100,
+    "tray_level": 95,
     "last_dispensed_grams": 21,
-    "last_dispensed_ago": "13:15:03",
+    "last_dispensed_ago": "15:02:45",
     "servo_status": "idle",
     "today_seed_grams": 204,
     "today_dispense_cycles": 17
@@ -37,13 +37,23 @@
   },
   "recent_tx": [
     {
+      "addr": "nano_3uggc4k...z6ss3k",
+      "full_addr": "nano_3uggc4kmpa11tsjr47wck8rrwqh1gprpc6myokg346gpgudew1ps9cz6ss3k",
+      "amount": 0.15,
+      "garden_action": "Saved",
+      "feeder_action": "Dispensed",
+      "time_ago": "4s ago",
+      "active": true,
+      "hash": "06DBCF616C7BB16B1AAF499169F6B8520DB355D857D1A030ABE7253106D53511"
+    },
+    {
       "addr": "nano_1udkdbd...u4r5s6",
       "full_addr": "nano_1udkdbdhwy7pq7d3ntstnsi5jcut3qahi5up6rzt5s7r5r4945f9pbu4r5s6",
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
       "time_ago": "1h ago",
-      "active": true,
+      "active": false,
       "hash": "E0C634F106BFA8B4185C49219245EDCDC344123A361AD213AA52CD7BCE6F925B"
     },
     {
@@ -125,16 +135,6 @@
       "time_ago": "2d ago",
       "active": false,
       "hash": "CE34272F5D87782881CBB26C6AA0371F31AB3A13DAF231D5B93EE5612005C953"
-    },
-    {
-      "addr": "nano_1zosoqs...u1zoso",
-      "full_addr": "nano_1zosoqs47yt47bnfg7sdf46kj7asn58b7uzm9ek95jw7ccatq37898u1zoso",
-      "amount": 0.1,
-      "garden_action": "Saved",
-      "feeder_action": "Dispensed",
-      "time_ago": "2d ago",
-      "active": false,
-      "hash": "7B023C75879F50C72F5ADB57E334F291800236D7D2DCFAB8BCD337F7ACEA6423"
     }
   ]
 }
