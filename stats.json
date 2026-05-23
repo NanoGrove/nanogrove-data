@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-05-23T19:52:03Z",
+  "updated_at": "2026-05-23T19:53:28Z",
   "treasury": {
-    "total_donated": 28.2441,
-    "tx_count": 94
+    "total_donated": 28.3441,
+    "tx_count": 95
   },
   "garden": {
-    "soil_moisture": 61,
+    "soil_moisture": 60,
     "valve_status": "closed",
     "last_watered_ago": "May 23 13:18:22",
     "last_watered_volume": 0.1,
@@ -15,9 +15,9 @@
     "total_water_liters": 208.0
   },
   "feeder": {
-    "tray_level": 95,
+    "tray_level": 90,
     "last_dispensed_grams": 21,
-    "last_dispensed_ago": "15:02:45",
+    "last_dispensed_ago": "15:53:19",
     "servo_status": "idle",
     "today_seed_grams": 204,
     "today_dispense_cycles": 17
@@ -37,13 +37,23 @@
   },
   "recent_tx": [
     {
+      "addr": "nano_1objga5...bwduuk",
+      "full_addr": "nano_1objga5xazmcckn9b4qxkwdd5hnefaex886a3ixkhxspw4tkpup3wmbwduuk",
+      "amount": 0.1,
+      "garden_action": "Saved",
+      "feeder_action": "Dispensed",
+      "time_ago": "4s ago",
+      "active": true,
+      "hash": "B4037A9ED72D38CF26108C829BAC51BC6E5C42D639946D5E6980EA472DB1CD52"
+    },
+    {
       "addr": "nano_3uggc4k...z6ss3k",
       "full_addr": "nano_3uggc4kmpa11tsjr47wck8rrwqh1gprpc6myokg346gpgudew1ps9cz6ss3k",
       "amount": 0.15,
       "garden_action": "Saved",
       "feeder_action": "Dispensed",
-      "time_ago": "49m ago",
-      "active": true,
+      "time_ago": "50m ago",
+      "active": false,
       "hash": "06DBCF616C7BB16B1AAF499169F6B8520DB355D857D1A030ABE7253106D53511"
     },
     {
@@ -125,16 +135,6 @@
       "time_ago": "7h ago",
       "active": false,
       "hash": "CA994C11A2E514DE60F76DB5E5C0E1DD2F5FD87BD1DDB3497B2FFEE8F24494AD"
-    },
-    {
-      "addr": "nano_1gqdc1u...szcwke",
-      "full_addr": "nano_1gqdc1uqy8gjwffctphoiagj6fuoth5r5dmtp5dickch1goz9prxeyszcwke",
-      "amount": 0.42,
-      "garden_action": "Saved",
-      "feeder_action": "Dispensed",
-      "time_ago": "2d ago",
-      "active": false,
-      "hash": "CE34272F5D87782881CBB26C6AA0371F31AB3A13DAF231D5B93EE5612005C953"
     }
   ]
 }
