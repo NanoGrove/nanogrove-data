@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-05-23T15:20:03Z",
+  "updated_at": "2026-05-23T15:20:49Z",
   "treasury": {
-    "total_donated": 27.7641,
-    "tx_count": 89
+    "total_donated": 27.7941,
+    "tx_count": 90
   },
   "garden": {
-    "soil_moisture": 75,
+    "soil_moisture": 76,
     "valve_status": "closed",
     "last_watered_ago": "May 23 09:24:38",
     "last_watered_volume": 0.0,
@@ -17,10 +17,10 @@
   "feeder": {
     "tray_level": 30,
     "last_dispensed_grams": 21,
-    "last_dispensed_ago": "10:15:42",
+    "last_dispensed_ago": "11:20:45",
     "servo_status": "idle",
-    "today_seed_grams": 216,
-    "today_dispense_cycles": 18
+    "today_seed_grams": 204,
+    "today_dispense_cycles": 17
   },
   "growing": {
     "emoji": "\ud83e\udd66",
@@ -39,11 +39,21 @@
     {
       "addr": "nano_1udkdbd...u4r5s6",
       "full_addr": "nano_1udkdbdhwy7pq7d3ntstnsi5jcut3qahi5up6rzt5s7r5r4945f9pbu4r5s6",
+      "amount": 0.03,
+      "garden_action": "Tip",
+      "feeder_action": "--",
+      "time_ago": "4s ago",
+      "active": true,
+      "hash": "F45BD8493B5FF13F40AECA3EC989E1576FBCCAA67204DA6E967B840CB0A56E7F"
+    },
+    {
+      "addr": "nano_1udkdbd...u4r5s6",
+      "full_addr": "nano_1udkdbdhwy7pq7d3ntstnsi5jcut3qahi5up6rzt5s7r5r4945f9pbu4r5s6",
       "amount": 0.1,
       "garden_action": "Saved",
       "feeder_action": "Dispensed",
       "time_ago": "1h ago",
-      "active": true,
+      "active": false,
       "hash": "6A38733953714C0517AF68F874AA7733A3E1D3DB155FEDE0927EA18BA23DBC62"
     },
     {
@@ -125,16 +135,6 @@
       "time_ago": "2d ago",
       "active": false,
       "hash": "B5BAABC405404405D40717017E9C9247101BAEE6B7C1B9A96C32FDD30EC8F356"
-    },
-    {
-      "addr": "nano_1745tar...p4hn6b",
-      "full_addr": "nano_1745taredmbqrgrzwsgcscggwckzpitqusqubuan5r67im86zokambp4hn6b",
-      "amount": 0.19,
-      "garden_action": "Saved",
-      "feeder_action": "Dispensed",
-      "time_ago": "2d ago",
-      "active": false,
-      "hash": "FD1728A438EFEE7B30D9564B9BDE55517B704D9631A43F8C303459A34079B4BD"
     }
   ]
 }
