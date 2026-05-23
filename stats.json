@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-05-23T13:26:02Z",
+  "updated_at": "2026-05-23T13:26:46Z",
   "treasury": {
-    "total_donated": 27.5641,
-    "tx_count": 87
+    "total_donated": 27.6641,
+    "tx_count": 88
   },
   "garden": {
-    "soil_moisture": 62,
+    "soil_moisture": 74,
     "valve_status": "closed",
     "last_watered_ago": "May 23 09:24:38",
     "last_watered_volume": 0.0,
@@ -15,9 +15,9 @@
     "total_water_liters": 207.9
   },
   "feeder": {
-    "tray_level": 40,
+    "tray_level": 35,
     "last_dispensed_grams": 21,
-    "last_dispensed_ago": "09:24:24",
+    "last_dispensed_ago": "09:26:37",
     "servo_status": "idle",
     "today_seed_grams": 216,
     "today_dispense_cycles": 18
@@ -40,10 +40,20 @@
       "addr": "nano_1udkdbd...u4r5s6",
       "full_addr": "nano_1udkdbdhwy7pq7d3ntstnsi5jcut3qahi5up6rzt5s7r5r4945f9pbu4r5s6",
       "amount": 0.1,
+      "garden_action": "Saved",
+      "feeder_action": "Dispensed",
+      "time_ago": "4s ago",
+      "active": true,
+      "hash": "B22DF66202F9471243DCC023BAC1FF6CDCECA18524811D4425CFDB8543500353"
+    },
+    {
+      "addr": "nano_1udkdbd...u4r5s6",
+      "full_addr": "nano_1udkdbdhwy7pq7d3ntstnsi5jcut3qahi5up6rzt5s7r5r4945f9pbu4r5s6",
+      "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "1m ago",
-      "active": true,
+      "time_ago": "2m ago",
+      "active": false,
       "hash": "DD1E2C747CEB8C0BFD5DF85D245860744BF34A3BBCB085A5F32B0D79A34DF392"
     },
     {
@@ -125,16 +135,6 @@
       "time_ago": "2d ago",
       "active": false,
       "hash": "EB19F70C4040D351D3E8BBE00FE6DBE5029A8E187EBF92012EB45FC36035763E"
-    },
-    {
-      "addr": "nano_3uojwjr...cwo7jj",
-      "full_addr": "nano_3uojwjrw41u8c4erhpew661q7o88zjmifhzjxbgsfjk7n1pfk6aaefcwo7jj",
-      "amount": 0.1,
-      "garden_action": "Watered",
-      "feeder_action": "Dispensed",
-      "time_ago": "2d ago",
-      "active": false,
-      "hash": "789E086310CE366F9A1ECEAE32D338FDBB84E60CE7C50AC69E33C46DC39D1351"
     }
   ]
 }
