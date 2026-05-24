@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-23T23:58:03Z",
+  "updated_at": "2026-05-24T00:00:02Z",
   "treasury": {
     "total_donated": 28.7441,
     "tx_count": 99
@@ -10,7 +10,7 @@
     "last_watered_ago": "May 23 13:18:22",
     "last_watered_volume": 0.1,
     "flow_rate": 0.0,
-    "last_flow_peak": 0.13,
+    "last_flow_peak": 0.0,
     "peak_lpm_last_soak": 0.13,
     "total_water_liters": 208.0
   },
@@ -30,8 +30,8 @@
     "progress_pct": 94
   },
   "weather": {
-    "temp": 59,
-    "condition": "Overcast",
+    "temp": "--",
+    "condition": "",
     "rain_chance": 0,
     "precip_mm_hr": 0
   },
