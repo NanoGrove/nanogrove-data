@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-05-25T02:44:04Z",
+  "updated_at": "2026-05-25T02:44:44Z",
   "treasury": {
-    "total_donated": 28.7441,
-    "tx_count": 99
+    "total_donated": 28.8441,
+    "tx_count": 100
   },
   "garden": {
-    "soil_moisture": 59,
+    "soil_moisture": 42,
     "valve_status": "closed",
-    "last_watered_ago": "May 24 22:29:40",
+    "last_watered_ago": "May 24 22:44:38",
     "last_watered_volume": 0.0,
     "flow_rate": 0.0,
     "last_flow_peak": 0.4,
-    "peak_lpm_last_soak": 0.0,
-    "total_water_liters": 208.3
+    "peak_lpm_last_soak": 0.4,
+    "total_water_liters": 208.4
   },
   "feeder": {
-    "tray_level": 70,
+    "tray_level": 65,
     "last_dispensed_grams": 21,
-    "last_dispensed_ago": "16:31:01",
+    "last_dispensed_ago": "22:44:24",
     "servo_status": "idle",
     "today_seed_grams": 216,
     "today_dispense_cycles": 18
@@ -37,13 +37,23 @@
   },
   "recent_tx": [
     {
+      "addr": "nano_1udkdbd...u4r5s6",
+      "full_addr": "nano_1udkdbdhwy7pq7d3ntstnsi5jcut3qahi5up6rzt5s7r5r4945f9pbu4r5s6",
+      "amount": 0.1,
+      "garden_action": "Watered",
+      "feeder_action": "Dispensed",
+      "time_ago": "6s ago",
+      "active": true,
+      "hash": "1AFD7C8B9B9F30F7EEE0E67C666788D29A5F372185624E904DF01F0A054B7B07"
+    },
+    {
       "addr": "nano_1pkfd6r...jpq98s",
       "full_addr": "nano_1pkfd6ruxb51ijad4jhy981cfubx77zpb93b5ekdjr3zw5ewie8kcmjpq98s",
       "amount": 0.1,
       "garden_action": "Saved",
       "feeder_action": "Dispensed",
       "time_ago": "1d ago",
-      "active": true,
+      "active": false,
       "hash": "18BD6313A2D4F63B5F74A2914C16097F747FE1547730A8A67F284AC5412E2C14"
     },
     {
@@ -125,16 +135,6 @@
       "time_ago": "1d ago",
       "active": false,
       "hash": "B6956F781AD317BF8EF6B699F5DC8CFA150A0444C5F3CB0E33F462CC49311473"
-    },
-    {
-      "addr": "nano_1udkdbd...u4r5s6",
-      "full_addr": "nano_1udkdbdhwy7pq7d3ntstnsi5jcut3qahi5up6rzt5s7r5r4945f9pbu4r5s6",
-      "amount": 0.03,
-      "garden_action": "Tip",
-      "feeder_action": "--",
-      "time_ago": "1d ago",
-      "active": false,
-      "hash": "F45BD8493B5FF13F40AECA3EC989E1576FBCCAA67204DA6E967B840CB0A56E7F"
     }
   ]
 }
