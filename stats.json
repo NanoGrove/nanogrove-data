@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-05-27T12:34:03Z",
+  "updated_at": "2026-05-27T12:35:06Z",
   "treasury": {
-    "total_donated": 29.7441,
-    "tx_count": 109
+    "total_donated": 29.8441,
+    "tx_count": 110
   },
   "garden": {
-    "soil_moisture": 77,
+    "soil_moisture": 94,
     "valve_status": "closed",
     "last_watered_ago": "May 26 20:59:30",
     "last_watered_volume": 0.0,
@@ -15,12 +15,12 @@
     "total_water_liters": 208.4
   },
   "feeder": {
-    "tray_level": 20,
+    "tray_level": 15,
     "last_dispensed_grams": 21,
-    "last_dispensed_ago": "20:59:15",
+    "last_dispensed_ago": "08:34:58",
     "servo_status": "idle",
-    "today_seed_grams": 228,
-    "today_dispense_cycles": 19
+    "today_seed_grams": 240,
+    "today_dispense_cycles": 20
   },
   "growing": {
     "emoji": "\ud83e\udd66",
@@ -40,10 +40,20 @@
       "addr": "nano_1udkdbd...u4r5s6",
       "full_addr": "nano_1udkdbdhwy7pq7d3ntstnsi5jcut3qahi5up6rzt5s7r5r4945f9pbu4r5s6",
       "amount": 0.1,
+      "garden_action": "Saved",
+      "feeder_action": "Dispensed",
+      "time_ago": "3s ago",
+      "active": true,
+      "hash": "51647376C648DD4D31186A1E4AC863343F8C51941F4878CF07F970A8CDF7C7EF"
+    },
+    {
+      "addr": "nano_1udkdbd...u4r5s6",
+      "full_addr": "nano_1udkdbdhwy7pq7d3ntstnsi5jcut3qahi5up6rzt5s7r5r4945f9pbu4r5s6",
+      "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
       "time_ago": "11h ago",
-      "active": true,
+      "active": false,
       "hash": "4A9D4FAF807A5731D2227D7C416334DC6C2D473C4C1E627863E7B815534C2644"
     },
     {
@@ -125,16 +135,6 @@
       "time_ago": "2d ago",
       "active": false,
       "hash": "0C2D9682B8629497140C1DF7931DE1EA4560AD0C294C18A65BD776F8D89EFD39"
-    },
-    {
-      "addr": "nano_1udkdbd...u4r5s6",
-      "full_addr": "nano_1udkdbdhwy7pq7d3ntstnsi5jcut3qahi5up6rzt5s7r5r4945f9pbu4r5s6",
-      "amount": 0.1,
-      "garden_action": "Watered",
-      "feeder_action": "Dispensed",
-      "time_ago": "2d ago",
-      "active": false,
-      "hash": "1AFD7C8B9B9F30F7EEE0E67C666788D29A5F372185624E904DF01F0A054B7B07"
     }
   ]
 }
