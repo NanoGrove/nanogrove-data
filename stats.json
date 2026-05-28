@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-28T12:14:02Z",
+  "updated_at": "2026-05-28T12:16:02Z",
   "treasury": {
     "total_donated": 31.0441,
     "tx_count": 113
@@ -30,7 +30,7 @@
     "progress_pct": 99
   },
   "weather": {
-    "temp": 70,
+    "temp": 71,
     "condition": "Clear",
     "rain_chance": 0,
     "precip_mm_hr": 0
@@ -42,7 +42,7 @@
       "amount": 0.1,
       "garden_action": "Saved",
       "feeder_action": "Dispensed",
-      "time_ago": "10m ago",
+      "time_ago": "12m ago",
       "active": true,
       "hash": "C92E8CAEDEC7B96EA635880668BB24589B1E93B404CACED49F31A13E70C82906"
     },
@@ -52,7 +52,7 @@
       "amount": 0.1,
       "garden_action": "Saved",
       "feeder_action": "Dispensed",
-      "time_ago": "10m ago",
+      "time_ago": "12m ago",
       "active": false,
       "hash": "C4BC4ED225A6A5F8B850DCEF95B5546F3A0EA65EAA9FB15A4C3705DB23681C5A"
     },
