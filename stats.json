@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-05-30T03:58:02Z",
+  "updated_at": "2026-05-30T04:00:02Z",
   "treasury": {
     "total_donated": 31.7541,
     "tx_count": 121
   },
   "garden": {
-    "soil_moisture": 97,
+    "soil_moisture": 99,
     "valve_status": "closed",
     "last_watered_ago": "May 28 17:13:40",
     "last_watered_volume": 0.0,
@@ -25,13 +25,13 @@
   "growing": {
     "emoji": "\ud83e\udd66",
     "plant": "Broccoli",
-    "days_since_sown": 95,
+    "days_since_sown": 96,
     "days_to_harvest": 0,
     "progress_pct": 100
   },
   "weather": {
-    "temp": 63,
-    "condition": "Clear",
+    "temp": "--",
+    "condition": "",
     "rain_chance": 0,
     "precip_mm_hr": 0
   },
