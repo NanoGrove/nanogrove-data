@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T15:22:02Z",
+  "updated_at": "2026-08-07T15:24:02Z",
   "treasury": {
     "total_donated": 33.5544,
     "tx_count": 129
@@ -36,7 +36,7 @@
     "precip_mm_hr": 0
   },
   "card_support": {
-    "usd_net": 0.0,
+    "usd_net": 0.67,
     "stale": false,
     "enabled": true
   },
