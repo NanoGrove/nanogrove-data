@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-12T15:40:03Z",
+  "updated_at": "2026-08-12T15:42:02Z",
   "treasury": {
     "total_donated": 33.8544,
-    "tx_count": 131,
+    "tx_count": 132,
     "courtesy_total": 0.1,
     "courtesy_count": 1
   },
@@ -50,8 +50,19 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "3s ago",
+      "time_ago": "2m ago",
       "active": true,
+      "hash": "F64AF97CF3F59293EF982B179D71E1A512A855A9331338C05FF0D8F5174570E3"
+    },
+    {
+      "addr": "nano_1udkdbd...u4r5s6",
+      "full_addr": "nano_1udkdbdhwy7pq7d3ntstnsi5jcut3qahi5up6rzt5s7r5r4945f9pbu4r5s6",
+      "courtesy": false,
+      "amount": 0.1,
+      "garden_action": "Watered",
+      "feeder_action": "Dispensed",
+      "time_ago": "2h ago",
+      "active": false,
       "hash": "E91CB3B0AC37CC37948ECDF1EBEB3DFBC2D44A7323923AF1D9D4333072270AE4"
     },
     {
@@ -61,7 +72,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "2h ago",
+      "time_ago": "2d ago",
       "active": false,
       "hash": "EB41682CAB1719F7A5CD1D636FD3FE808376F09D3A59A2591BA7557BA6E2E8D4"
     },
@@ -136,22 +147,11 @@
       "full_addr": "nano_1udkdbdhwy7pq7d3ntstnsi5jcut3qahi5up6rzt5s7r5r4945f9pbu4r5s6",
       "courtesy": false,
       "amount": 0.1,
-      "garden_action": "Watered",
-      "feeder_action": "Dispensed",
-      "time_ago": "2d ago",
-      "active": false,
-      "hash": "594A314C55474335E98C3617C7366D0475FB18C8518D6F9759DE21F1F06809DA"
-    },
-    {
-      "addr": "nano_1udkdbd...u4r5s6",
-      "full_addr": "nano_1udkdbdhwy7pq7d3ntstnsi5jcut3qahi5up6rzt5s7r5r4945f9pbu4r5s6",
-      "courtesy": false,
-      "amount": 0.1,
       "garden_action": "Saved",
       "feeder_action": "Dispensed",
       "time_ago": "73d ago",
       "active": false,
-      "hash": "9E2DD2AE01FE86EF96FC0B71DD833E972F4AE4DB91B18CA96EC5F998380F15AA"
+      "hash": "594A314C55474335E98C3617C7366D0475FB18C8518D6F9759DE21F1F06809DA"
     }
   ]
 }
