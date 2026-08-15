@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-15T16:02:02Z",
+  "updated_at": "2026-08-15T16:03:25Z",
   "treasury": {
-    "total_donated": 34.1544,
+    "total_donated": 34.2544,
     "tx_count": 134,
     "courtesy_total": 0.2,
     "courtesy_count": 2
@@ -9,20 +9,20 @@
   "garden": {
     "soil_moisture": 19,
     "valve_status": "closed",
-    "last_watered_ago": "Aug 15 11:52:52",
-    "last_watered_volume": 0.8,
-    "flow_rate": 0.0,
-    "last_flow_peak": 14.67,
+    "last_watered_ago": "Aug 15 12:03:22",
+    "last_watered_volume": 1.0,
+    "flow_rate": 0.93,
+    "last_flow_peak": 13.33,
     "peak_lpm_last_soak": 14.67,
-    "total_water_liters": 212.3
+    "total_water_liters": 213.3
   },
   "feeder": {
-    "tray_level": 80,
+    "tray_level": 75,
     "last_dispensed_grams": 21,
-    "last_dispensed_ago": "09:14:52",
+    "last_dispensed_ago": "12:03:07",
     "servo_status": "idle",
-    "today_seed_grams": 204,
-    "today_dispense_cycles": 17
+    "today_seed_grams": 216,
+    "today_dispense_cycles": 18
   },
   "growing": {
     "emoji": "\ud83c\udf36\ufe0f",
@@ -50,7 +50,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "9m ago",
+      "time_ago": "3s ago",
       "active": true,
       "hash": "804FA0CAC0F5E146F9AD7DD411D84D8FC8FF1A1EA0B7BF3136223A8837DC4594"
     },
@@ -61,7 +61,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "2h ago",
+      "time_ago": "10m ago",
       "active": false,
       "hash": "C826639AA78218A9F6BE9DDC7D64042D82074FDCA2DA6835325647E6EE98DDDE"
     },
@@ -83,7 +83,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "3h ago",
+      "time_ago": "2h ago",
       "active": false,
       "hash": "E91CB3B0AC37CC37948ECDF1EBEB3DFBC2D44A7323923AF1D9D4333072270AE4"
     },
@@ -94,7 +94,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "3d ago",
+      "time_ago": "3h ago",
       "active": false,
       "hash": "EB41682CAB1719F7A5CD1D636FD3FE808376F09D3A59A2591BA7557BA6E2E8D4"
     },
