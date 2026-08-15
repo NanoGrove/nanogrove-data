@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T13:14:02Z",
+  "updated_at": "2026-08-15T15:52:56Z",
   "treasury": {
     "total_donated": 34.1544,
     "tx_count": 134,
@@ -7,19 +7,19 @@
     "courtesy_count": 2
   },
   "garden": {
-    "soil_moisture": 20,
+    "soil_moisture": 19,
     "valve_status": "closed",
-    "last_watered_ago": "Aug 15 09:09:28",
-    "last_watered_volume": 1.8,
-    "flow_rate": 0.0,
-    "last_flow_peak": 14.53,
-    "peak_lpm_last_soak": 20.4,
-    "total_water_liters": 211.5
+    "last_watered_ago": "Aug 15 11:52:52",
+    "last_watered_volume": 0.8,
+    "flow_rate": 0.13,
+    "last_flow_peak": 14.67,
+    "peak_lpm_last_soak": 14.67,
+    "total_water_liters": 212.3
   },
   "feeder": {
-    "tray_level": 85,
+    "tray_level": 80,
     "last_dispensed_grams": 21,
-    "last_dispensed_ago": "09:09:14",
+    "last_dispensed_ago": "09:14:52",
     "servo_status": "idle",
     "today_seed_grams": 204,
     "today_dispense_cycles": 17
@@ -32,8 +32,8 @@
     "progress_pct": 100
   },
   "weather": {
-    "temp": 77,
-    "condition": "Clear",
+    "temp": 82,
+    "condition": "Overcast",
     "rain_chance": 0,
     "precip_mm_hr": 0
   },
@@ -50,7 +50,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "4m ago",
+      "time_ago": "4s ago",
       "active": true,
       "hash": "804FA0CAC0F5E146F9AD7DD411D84D8FC8FF1A1EA0B7BF3136223A8837DC4594"
     },
@@ -61,7 +61,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "10m ago",
+      "time_ago": "2h ago",
       "active": false,
       "hash": "C826639AA78218A9F6BE9DDC7D64042D82074FDCA2DA6835325647E6EE98DDDE"
     },
@@ -72,7 +72,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "15m ago",
+      "time_ago": "2h ago",
       "active": false,
       "hash": "F64AF97CF3F59293EF982B179D71E1A512A855A9331338C05FF0D8F5174570E3"
     },
@@ -83,7 +83,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "2d ago",
+      "time_ago": "2h ago",
       "active": false,
       "hash": "E91CB3B0AC37CC37948ECDF1EBEB3DFBC2D44A7323923AF1D9D4333072270AE4"
     },
