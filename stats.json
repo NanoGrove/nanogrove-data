@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-08-27T13:53:02Z",
+  "updated_at": "2026-08-27T13:53:36Z",
   "treasury": {
-    "total_donated": 34.2544,
-    "tx_count": 135,
+    "total_donated": 34.3544,
+    "tx_count": 136,
     "courtesy_total": 0.2,
     "courtesy_count": 2
   },
   "garden": {
     "soil_moisture": 15,
     "valve_status": "closed",
-    "last_watered_ago": "Aug 27 09:52:58",
+    "last_watered_ago": "Aug 27 09:53:33",
     "last_watered_volume": 0.0,
     "flow_rate": 0.0,
     "last_flow_peak": 0.0,
@@ -17,9 +17,9 @@
     "total_water_liters": 213.3
   },
   "feeder": {
-    "tray_level": 70,
+    "tray_level": 65,
     "last_dispensed_grams": 21,
-    "last_dispensed_ago": "12:16:32",
+    "last_dispensed_ago": "09:53:18",
     "servo_status": "idle",
     "today_seed_grams": 216,
     "today_dispense_cycles": 18
@@ -50,8 +50,19 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "4s ago",
+      "time_ago": "3s ago",
       "active": true,
+      "hash": "8D3AF6C2E3CC1218ACE371B838EEFC1B54A63C68CFA8B0D80F397D2D4512CF18"
+    },
+    {
+      "addr": "nano_1udkdbd...u4r5s6",
+      "full_addr": "nano_1udkdbdhwy7pq7d3ntstnsi5jcut3qahi5up6rzt5s7r5r4945f9pbu4r5s6",
+      "courtesy": false,
+      "amount": 0.1,
+      "garden_action": "Watered",
+      "feeder_action": "Dispensed",
+      "time_ago": "38s ago",
+      "active": false,
       "hash": "009C586A0711F70234DECB5E182CA86F60073EB7E034611745356C2B24016BD5"
     },
     {
@@ -141,17 +152,6 @@
       "time_ago": "47d ago",
       "active": false,
       "hash": "C25B410F4BAACB62326CE2CE45C25016AD123C50B2BD11C4D1DA243A5FE74816"
-    },
-    {
-      "addr": "nano_1z1uaci...omopit",
-      "full_addr": "nano_1z1uaciweosrj3ipajaauqrz3h87wtz6a199aezo75ewi8p75bcwfzomopit",
-      "courtesy": false,
-      "amount": 0.5,
-      "garden_action": "Saved",
-      "feeder_action": "Dispensed",
-      "time_ago": "47d ago",
-      "active": false,
-      "hash": "51FB5E9BAD36C401CCE85DD10331D50705622376088BE6C7CF23723D0FC543AE"
     }
   ]
 }
