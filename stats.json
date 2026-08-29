@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T03:58:02Z",
+  "updated_at": "2026-08-29T04:00:02Z",
   "treasury": {
     "total_donated": 34.7544,
     "tx_count": 141,
@@ -27,7 +27,7 @@
   "growing": {
     "emoji": "\ud83c\udf36\ufe0f",
     "plant": "Peppers",
-    "days_since_sown": 88,
+    "days_since_sown": 89,
     "days_to_harvest": 0,
     "progress_pct": 100
   },
