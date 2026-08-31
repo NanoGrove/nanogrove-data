@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-31T22:28:51Z",
+  "updated_at": "2026-08-31T22:29:27Z",
   "treasury": {
-    "total_donated": 35.7544,
-    "tx_count": 151,
+    "total_donated": 35.8544,
+    "tx_count": 152,
     "courtesy_total": 1.1,
     "courtesy_count": 11
   },
   "garden": {
     "soil_moisture": 24,
     "valve_status": "closed",
-    "last_watered_ago": "Aug 31 18:28:48",
-    "last_watered_volume": 0.0,
+    "last_watered_ago": "Aug 31 18:29:24",
+    "last_watered_volume": 0.1,
     "flow_rate": 0.0,
-    "last_flow_peak": 0.0,
+    "last_flow_peak": 6.67,
     "peak_lpm_last_soak": 14.27,
-    "total_water_liters": 226.2
+    "total_water_liters": 226.3
   },
   "feeder": {
-    "tray_level": 95,
+    "tray_level": 90,
     "last_dispensed_grams": 21,
-    "last_dispensed_ago": "18:28:28",
+    "last_dispensed_ago": "18:29:04",
     "servo_status": "idle",
     "today_seed_grams": 240,
     "today_dispense_cycles": 20
@@ -52,6 +52,17 @@
       "feeder_action": "Dispensed",
       "time_ago": "3s ago",
       "active": true,
+      "hash": "713D6C9C0AAB8CCCEB98D17D8FDFEE8353069D5A138E055CAB1CB2EFB5EE2C74"
+    },
+    {
+      "addr": "nano_1udkdbd...u4r5s6",
+      "full_addr": "nano_1udkdbdhwy7pq7d3ntstnsi5jcut3qahi5up6rzt5s7r5r4945f9pbu4r5s6",
+      "courtesy": false,
+      "amount": 0.1,
+      "garden_action": "Watered",
+      "feeder_action": "Dispensed",
+      "time_ago": "39s ago",
+      "active": false,
       "hash": "74F1790BF3F8500ED0F25D1683E098754CBF98834AC53B7E49382D1A91ACD63B"
     },
     {
@@ -141,17 +152,6 @@
       "time_ago": "1d ago",
       "active": false,
       "hash": "92B26DD2C59030E32A097DFE9AACB39B39BC72B3BA6AE115C0A770CB2473EE6E"
-    },
-    {
-      "addr": "courtesy pool",
-      "full_addr": "nano_16j9a6wq5kn4eusxoi55ed8hjjgbmkg8esd69neccdxhwik3eohzq3xpdbgi",
-      "courtesy": true,
-      "amount": 0.1,
-      "garden_action": "Watered",
-      "feeder_action": "Dispensed",
-      "time_ago": "2d ago",
-      "active": false,
-      "hash": "44763B548391DFE8F8879712B1BBAD639A1F3F0ECA54B3CC659CCE641AE7833D"
     }
   ]
 }
