@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-31T22:28:03Z",
+  "updated_at": "2026-08-31T22:28:51Z",
   "treasury": {
-    "total_donated": 35.6544,
-    "tx_count": 150,
+    "total_donated": 35.7544,
+    "tx_count": 151,
     "courtesy_total": 1.1,
     "courtesy_count": 11
   },
   "garden": {
     "soil_moisture": 24,
     "valve_status": "closed",
-    "last_watered_ago": "Aug 31 15:02:00",
-    "last_watered_volume": 1.6,
+    "last_watered_ago": "Aug 31 18:28:48",
+    "last_watered_volume": 0.0,
     "flow_rate": 0.0,
-    "last_flow_peak": 13.87,
+    "last_flow_peak": 0.0,
     "peak_lpm_last_soak": 14.27,
     "total_water_liters": 226.2
   },
   "feeder": {
-    "tray_level": 100,
+    "tray_level": 95,
     "last_dispensed_grams": 21,
-    "last_dispensed_ago": "15:01:40",
+    "last_dispensed_ago": "18:28:28",
     "servo_status": "idle",
     "today_seed_grams": 240,
     "today_dispense_cycles": 20
@@ -44,6 +44,17 @@
   },
   "recent_tx": [
     {
+      "addr": "nano_1udkdbd...u4r5s6",
+      "full_addr": "nano_1udkdbdhwy7pq7d3ntstnsi5jcut3qahi5up6rzt5s7r5r4945f9pbu4r5s6",
+      "courtesy": false,
+      "amount": 0.1,
+      "garden_action": "Watered",
+      "feeder_action": "Dispensed",
+      "time_ago": "3s ago",
+      "active": true,
+      "hash": "74F1790BF3F8500ED0F25D1683E098754CBF98834AC53B7E49382D1A91ACD63B"
+    },
+    {
       "addr": "nano_3gu11ai...pd3ooj",
       "full_addr": "nano_3gu11aicu8suz58w1ss649ps7o1z9tfpx4jhr5zr4y8ksmrn4y4g66pd3ooj",
       "courtesy": false,
@@ -51,7 +62,7 @@
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
       "time_ago": "3h ago",
-      "active": true,
+      "active": false,
       "hash": "CDA54CA569D6EC5DC5A4B713BF67C4777B6ABCA8A15849952129B78B7E96C19D"
     },
     {
@@ -141,17 +152,6 @@
       "time_ago": "2d ago",
       "active": false,
       "hash": "44763B548391DFE8F8879712B1BBAD639A1F3F0ECA54B3CC659CCE641AE7833D"
-    },
-    {
-      "addr": "nano_1udkdbd...u4r5s6",
-      "full_addr": "nano_1udkdbdhwy7pq7d3ntstnsi5jcut3qahi5up6rzt5s7r5r4945f9pbu4r5s6",
-      "courtesy": false,
-      "amount": 0.1,
-      "garden_action": "Watered",
-      "feeder_action": "Dispensed",
-      "time_ago": "2d ago",
-      "active": false,
-      "hash": "3D94F1948F69F181B046DC301C42AE61B970751DC222761B1CDFCF811B70E3D7"
     }
   ]
 }
