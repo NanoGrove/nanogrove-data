@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T03:58:02Z",
+  "updated_at": "2026-09-01T04:00:02Z",
   "treasury": {
     "total_donated": 35.8544,
     "tx_count": 152,
@@ -7,7 +7,7 @@
     "courtesy_count": 11
   },
   "garden": {
-    "soil_moisture": 22,
+    "soil_moisture": 23,
     "valve_status": "closed",
     "last_watered_ago": "Aug 31 18:29:24",
     "last_watered_volume": 0.1,
@@ -27,7 +27,7 @@
   "growing": {
     "emoji": "\ud83c\udf36\ufe0f",
     "plant": "Peppers",
-    "days_since_sown": 91,
+    "days_since_sown": 92,
     "days_to_harvest": 0,
     "progress_pct": 100
   },
