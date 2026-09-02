@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T05:14:43Z",
+  "updated_at": "2026-09-02T05:16:02Z",
   "treasury": {
     "total_donated": 35.8544,
     "tx_count": 152,
@@ -12,9 +12,9 @@
     "last_watered_ago": "Sep 01 13:14:38",
     "last_watered_volume": 7.0,
     "flow_rate": 0.0,
-    "last_flow_peak": 0.0,
-    "peak_lpm_last_soak": 0.0,
-    "total_water_liters": 233.3
+    "last_flow_peak": 14.0,
+    "peak_lpm_last_soak": 14.0,
+    "total_water_liters": 234.6
   },
   "feeder": {
     "tray_level": 90,
