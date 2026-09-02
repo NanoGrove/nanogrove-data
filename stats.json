@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-02T17:12:03Z",
+  "updated_at": "2026-09-02T17:12:07Z",
   "treasury": {
-    "total_donated": 35.9544,
+    "total_donated": 35.9844,
     "tx_count": 153,
     "courtesy_total": 1.1,
     "courtesy_count": 11
@@ -19,10 +19,10 @@
   "feeder": {
     "tray_level": 85,
     "last_dispensed_grams": 21,
-    "last_dispensed_ago": "13:11:18",
+    "last_dispensed_ago": "13:12:03",
     "servo_status": "idle",
-    "today_seed_grams": 240,
-    "today_dispense_cycles": 20
+    "today_seed_grams": 228,
+    "today_dispense_cycles": 19
   },
   "growing": {
     "emoji": "\ud83c\udf36\ufe0f",
@@ -50,7 +50,7 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "26s ago",
+      "time_ago": "30s ago",
       "active": true,
       "hash": "5B82F225F71E18B8AAAB977C4D5EE98C124D15AEC43320F730BB31B870844E7A"
     },
