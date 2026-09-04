@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T22:32:02Z",
+  "updated_at": "2026-09-04T22:34:02Z",
   "treasury": {
     "total_donated": 36.3844,
     "tx_count": 158,
@@ -32,10 +32,10 @@
     "progress_pct": 100
   },
   "weather": {
-    "temp": 87,
-    "condition": "Overcast",
+    "temp": 80,
+    "condition": "Drizzle",
     "rain_chance": 0,
-    "precip_mm_hr": 0
+    "precip_mm_hr": 0.1
   },
   "card_support": {
     "usd_net": 0.67,
