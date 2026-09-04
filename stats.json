@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-09-04T09:58:01Z",
+  "updated_at": "2026-09-04T10:00:02Z",
   "treasury": {
     "total_donated": 35.9844,
-    "tx_count": 20,
-    "courtesy_total": 0.0,
-    "courtesy_count": 0
+    "tx_count": 154,
+    "courtesy_total": 1.1,
+    "courtesy_count": 11
   },
   "garden": {
     "soil_moisture": 19,
@@ -32,15 +32,126 @@
     "progress_pct": 100
   },
   "weather": {
-    "temp": "--",
-    "condition": "",
+    "temp": 76,
+    "condition": "Clear",
     "rain_chance": 0,
     "precip_mm_hr": 0
   },
   "card_support": {
     "usd_net": 0.67,
-    "stale": true,
+    "stale": false,
     "enabled": true
   },
-  "recent_tx": []
+  "recent_tx": [
+    {
+      "addr": "nano_1udkdbd...u4r5s6",
+      "full_addr": "nano_1udkdbdhwy7pq7d3ntstnsi5jcut3qahi5up6rzt5s7r5r4945f9pbu4r5s6",
+      "courtesy": false,
+      "amount": 0.03,
+      "garden_action": "Tip",
+      "feeder_action": "--",
+      "time_ago": "1d ago",
+      "active": true,
+      "hash": "3D306B017D3E4F185BA4A8C08B60D6C7FD8019FAE277DAA2E0010546E9ABF3B4"
+    },
+    {
+      "addr": "nano_1udkdbd...u4r5s6",
+      "full_addr": "nano_1udkdbdhwy7pq7d3ntstnsi5jcut3qahi5up6rzt5s7r5r4945f9pbu4r5s6",
+      "courtesy": false,
+      "amount": 0.1,
+      "garden_action": "Watered",
+      "feeder_action": "Dispensed",
+      "time_ago": "1d ago",
+      "active": false,
+      "hash": "5B82F225F71E18B8AAAB977C4D5EE98C124D15AEC43320F730BB31B870844E7A"
+    },
+    {
+      "addr": "nano_1udkdbd...u4r5s6",
+      "full_addr": "nano_1udkdbdhwy7pq7d3ntstnsi5jcut3qahi5up6rzt5s7r5r4945f9pbu4r5s6",
+      "courtesy": false,
+      "amount": 0.1,
+      "garden_action": "Watered",
+      "feeder_action": "Dispensed",
+      "time_ago": "3d ago",
+      "active": false,
+      "hash": "713D6C9C0AAB8CCCEB98D17D8FDFEE8353069D5A138E055CAB1CB2EFB5EE2C74"
+    },
+    {
+      "addr": "nano_1udkdbd...u4r5s6",
+      "full_addr": "nano_1udkdbdhwy7pq7d3ntstnsi5jcut3qahi5up6rzt5s7r5r4945f9pbu4r5s6",
+      "courtesy": false,
+      "amount": 0.1,
+      "garden_action": "Watered",
+      "feeder_action": "Dispensed",
+      "time_ago": "3d ago",
+      "active": false,
+      "hash": "74F1790BF3F8500ED0F25D1683E098754CBF98834AC53B7E49382D1A91ACD63B"
+    },
+    {
+      "addr": "nano_3gu11ai...pd3ooj",
+      "full_addr": "nano_3gu11aicu8suz58w1ss649ps7o1z9tfpx4jhr5zr4y8ksmrn4y4g66pd3ooj",
+      "courtesy": false,
+      "amount": 0.1,
+      "garden_action": "Watered",
+      "feeder_action": "Dispensed",
+      "time_ago": "3d ago",
+      "active": false,
+      "hash": "CDA54CA569D6EC5DC5A4B713BF67C4777B6ABCA8A15849952129B78B7E96C19D"
+    },
+    {
+      "addr": "courtesy pool",
+      "full_addr": "nano_16j9a6wq5kn4eusxoi55ed8hjjgbmkg8esd69neccdxhwik3eohzq3xpdbgi",
+      "courtesy": true,
+      "amount": 0.1,
+      "garden_action": "Watered",
+      "feeder_action": "Dispensed",
+      "time_ago": "3d ago",
+      "active": false,
+      "hash": "2CB6083F1F5095302F932D38AEC1125FCC519842475730D063FD40D07A91B4A5"
+    },
+    {
+      "addr": "courtesy pool",
+      "full_addr": "nano_16j9a6wq5kn4eusxoi55ed8hjjgbmkg8esd69neccdxhwik3eohzq3xpdbgi",
+      "courtesy": true,
+      "amount": 0.1,
+      "garden_action": "Watered",
+      "feeder_action": "Dispensed",
+      "time_ago": "3d ago",
+      "active": false,
+      "hash": "D6145304F83FABE3C72FCF7C5A2C09C9F0009DA7EB0BCEF2A74FA020FEFE27F9"
+    },
+    {
+      "addr": "nano_1udkdbd...u4r5s6",
+      "full_addr": "nano_1udkdbdhwy7pq7d3ntstnsi5jcut3qahi5up6rzt5s7r5r4945f9pbu4r5s6",
+      "courtesy": false,
+      "amount": 0.1,
+      "garden_action": "Watered",
+      "feeder_action": "Dispensed",
+      "time_ago": "4d ago",
+      "active": false,
+      "hash": "E76EADA45933B2739A8F53133242481E8CF928093FF58BC482830523899067E2"
+    },
+    {
+      "addr": "courtesy pool",
+      "full_addr": "nano_16j9a6wq5kn4eusxoi55ed8hjjgbmkg8esd69neccdxhwik3eohzq3xpdbgi",
+      "courtesy": true,
+      "amount": 0.1,
+      "garden_action": "Watered",
+      "feeder_action": "Dispensed",
+      "time_ago": "4d ago",
+      "active": false,
+      "hash": "D034C56601E8CE7497CAC7E3B42DC117FC52713FD32A4DE6818C92E3447CDC4B"
+    },
+    {
+      "addr": "courtesy pool",
+      "full_addr": "nano_16j9a6wq5kn4eusxoi55ed8hjjgbmkg8esd69neccdxhwik3eohzq3xpdbgi",
+      "courtesy": true,
+      "amount": 0.1,
+      "garden_action": "Watered",
+      "feeder_action": "Dispensed",
+      "time_ago": "4d ago",
+      "active": false,
+      "hash": "025EDACE1C0424802C416936A5CBE6F13BB6BF06B961F622896817D62A654248"
+    }
+  ]
 }
