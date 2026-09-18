@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-09-18T20:56:02Z",
+  "updated_at": "2026-09-18T20:57:55Z",
   "treasury": {
-    "total_donated": 0.0,
-    "tx_count": 160,
+    "total_donated": 0.1,
+    "tx_count": 161,
     "courtesy_total": 1.4,
     "courtesy_count": 14
   },
   "garden": {
     "soil_moisture": 18,
     "valve_status": "closed",
-    "last_watered_ago": "Sep 18 11:21:17",
+    "last_watered_ago": "Sep 18 16:57:52",
     "last_watered_volume": 0.0,
     "flow_rate": 0.0,
     "last_flow_peak": 0.13,
@@ -17,9 +17,9 @@
     "total_water_liters": 267.7
   },
   "feeder": {
-    "tray_level": 55,
+    "tray_level": 50,
     "last_dispensed_grams": 21,
-    "last_dispensed_ago": "23:43:45",
+    "last_dispensed_ago": "16:57:32",
     "servo_status": "idle",
     "today_seed_grams": 228,
     "today_dispense_cycles": 19
@@ -50,8 +50,19 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "6d ago",
+      "time_ago": "3s ago",
       "active": true,
+      "hash": "FE4A7FF0C987FB891A88BD8224C51589FD0BE24A1BA5798F768679B57E000D88"
+    },
+    {
+      "addr": "nano_1udkdbd...u4r5s6",
+      "full_addr": "nano_1udkdbdhwy7pq7d3ntstnsi5jcut3qahi5up6rzt5s7r5r4945f9pbu4r5s6",
+      "courtesy": false,
+      "amount": 0.1,
+      "garden_action": "Watered",
+      "feeder_action": "Dispensed",
+      "time_ago": "6d ago",
+      "active": false,
       "hash": "772A2825F87DC39580A972BB56267FBE6C4092AACD624402C251F8E2C7A8A3F3"
     },
     {
@@ -141,17 +152,6 @@
       "time_ago": "17d ago",
       "active": false,
       "hash": "713D6C9C0AAB8CCCEB98D17D8FDFEE8353069D5A138E055CAB1CB2EFB5EE2C74"
-    },
-    {
-      "addr": "nano_1udkdbd...u4r5s6",
-      "full_addr": "nano_1udkdbdhwy7pq7d3ntstnsi5jcut3qahi5up6rzt5s7r5r4945f9pbu4r5s6",
-      "courtesy": false,
-      "amount": 0.1,
-      "garden_action": "Watered",
-      "feeder_action": "Dispensed",
-      "time_ago": "17d ago",
-      "active": false,
-      "hash": "74F1790BF3F8500ED0F25D1683E098754CBF98834AC53B7E49382D1A91ACD63B"
     }
   ]
 }
