@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T15:08:02Z",
+  "updated_at": "2026-09-18T15:09:21Z",
   "treasury": {
     "total_donated": 0.0,
     "tx_count": 160,
@@ -8,7 +8,7 @@
   },
   "garden": {
     "soil_moisture": 20,
-    "valve_status": "closed",
+    "valve_status": "open",
     "last_watered_ago": "Sep 11 23:44:05",
     "last_watered_volume": 0.0,
     "flow_rate": 0.0,
