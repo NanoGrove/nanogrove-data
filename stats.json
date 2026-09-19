@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-19T18:00:02Z",
+  "updated_at": "2026-09-19T18:00:56Z",
   "treasury": {
-    "total_donated": 0.3,
-    "tx_count": 163,
+    "total_donated": 0.4,
+    "tx_count": 164,
     "courtesy_total": 1.4,
     "courtesy_count": 14
   },
   "garden": {
     "soil_moisture": 18,
     "valve_status": "closed",
-    "last_watered_ago": "Sep 19 11:45:23",
-    "last_watered_volume": 7.9,
-    "flow_rate": 0.0,
-    "last_flow_peak": 14.13,
+    "last_watered_ago": "Sep 19 14:00:53",
+    "last_watered_volume": 1.5,
+    "flow_rate": 0.8,
+    "last_flow_peak": 13.6,
     "peak_lpm_last_soak": 15.87,
-    "total_water_liters": 275.6
+    "total_water_liters": 277.0
   },
   "feeder": {
-    "tray_level": 40,
+    "tray_level": 35,
     "last_dispensed_grams": 21,
-    "last_dispensed_ago": "20:43:19",
+    "last_dispensed_ago": "14:00:33",
     "servo_status": "idle",
     "today_seed_grams": 228,
     "today_dispense_cycles": 19
@@ -50,8 +50,19 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "17h ago",
+      "time_ago": "3s ago",
       "active": true,
+      "hash": "CCDE68C13ED9B976536877875C453076E5A3911207E1588F6974B915CC698716"
+    },
+    {
+      "addr": "nano_1udkdbd...u4r5s6",
+      "full_addr": "nano_1udkdbdhwy7pq7d3ntstnsi5jcut3qahi5up6rzt5s7r5r4945f9pbu4r5s6",
+      "courtesy": false,
+      "amount": 0.1,
+      "garden_action": "Watered",
+      "feeder_action": "Dispensed",
+      "time_ago": "17h ago",
+      "active": false,
       "hash": "AABAE8C6D697E51EDFAA0800A8254EFB294E11F8EF36101F50DE743EBE35ED18"
     },
     {
@@ -141,17 +152,6 @@
       "time_ago": "15d ago",
       "active": false,
       "hash": "3A85FD3ECAEC5789C0282E447697E8A4BF287FB287E8478EA2F9706B072BF2C0"
-    },
-    {
-      "addr": "nano_1udkdbd...u4r5s6",
-      "full_addr": "nano_1udkdbdhwy7pq7d3ntstnsi5jcut3qahi5up6rzt5s7r5r4945f9pbu4r5s6",
-      "courtesy": false,
-      "amount": 0.03,
-      "garden_action": "Tip",
-      "feeder_action": "--",
-      "time_ago": "17d ago",
-      "active": false,
-      "hash": "3D306B017D3E4F185BA4A8C08B60D6C7FD8019FAE277DAA2E0010546E9ABF3B4"
     }
   ]
 }
