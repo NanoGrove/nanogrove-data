@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T15:08:00Z",
+  "updated_at": "2026-09-21T15:08:02Z",
   "treasury": {
     "total_donated": 36.9844,
     "tx_count": 164,
@@ -11,7 +11,7 @@
     "valve_status": "open",
     "last_watered_ago": "Sep 21 00:21:33",
     "last_watered_volume": 6.4,
-    "flow_rate": 3.6,
+    "flow_rate": 0.27,
     "last_flow_peak": 14.93,
     "peak_lpm_last_soak": 14.93,
     "total_water_liters": 296.1
