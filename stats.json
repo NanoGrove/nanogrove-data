@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-25T22:08:02Z",
+  "updated_at": "2026-09-25T22:09:03Z",
   "treasury": {
-    "total_donated": 37.2844,
-    "tx_count": 167,
-    "courtesy_total": 1.5,
-    "courtesy_count": 15
+    "total_donated": 37.3844,
+    "tx_count": 168,
+    "courtesy_total": 1.6,
+    "courtesy_count": 16
   },
   "garden": {
     "soil_moisture": 25,
     "valve_status": "closed",
-    "last_watered_ago": "Sep 22 11:44:02",
-    "last_watered_volume": 0.1,
+    "last_watered_ago": "Sep 25 18:09:00",
+    "last_watered_volume": 0.2,
     "flow_rate": 0.0,
-    "last_flow_peak": 0.0,
-    "peak_lpm_last_soak": 2.4,
-    "total_water_liters": 297.8
+    "last_flow_peak": 6.13,
+    "peak_lpm_last_soak": 6.13,
+    "total_water_liters": 298.0
   },
   "feeder": {
-    "tray_level": 20,
+    "tray_level": 15,
     "last_dispensed_grams": 21,
-    "last_dispensed_ago": "15:10:14",
+    "last_dispensed_ago": "18:08:40",
     "servo_status": "idle",
     "today_seed_grams": 228,
     "today_dispense_cycles": 19
@@ -44,6 +44,17 @@
   },
   "recent_tx": [
     {
+      "addr": "courtesy pool",
+      "full_addr": "nano_16j9a6wq5kn4eusxoi55ed8hjjgbmkg8esd69neccdxhwik3eohzq3xpdbgi",
+      "courtesy": true,
+      "amount": 0.1,
+      "garden_action": "Watered",
+      "feeder_action": "Dispensed",
+      "time_ago": "3s ago",
+      "active": true,
+      "hash": "FBD81FD408BDD8A142FB9541A3476B61B0234FFF3F9074E3816194D76697964C"
+    },
+    {
       "addr": "nano_1udkdbd...u4r5s6",
       "full_addr": "nano_1udkdbdhwy7pq7d3ntstnsi5jcut3qahi5up6rzt5s7r5r4945f9pbu4r5s6",
       "courtesy": false,
@@ -51,7 +62,7 @@
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
       "time_ago": "4d ago",
-      "active": true,
+      "active": false,
       "hash": "23B2261512054932F97720514C74EFDF0DFE72716EACEE8F75FDC518F84CA0E2"
     },
     {
@@ -141,17 +152,6 @@
       "time_ago": "20d ago",
       "active": false,
       "hash": "335E5B3797EE581964557E76291BDA9B6B28A126AA3F742EA0573AA2055AEBC4"
-    },
-    {
-      "addr": "courtesy pool",
-      "full_addr": "nano_16j9a6wq5kn4eusxoi55ed8hjjgbmkg8esd69neccdxhwik3eohzq3xpdbgi",
-      "courtesy": true,
-      "amount": 0.1,
-      "garden_action": "Watered",
-      "feeder_action": "Dispensed",
-      "time_ago": "21d ago",
-      "active": false,
-      "hash": "823266F28CFC4DC95CBD59CCA6962D8CCD6B747B1296DEBF61102C0FEE4350B8"
     }
   ]
 }
