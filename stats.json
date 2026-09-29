@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-29T21:36:02Z",
+  "updated_at": "2026-09-29T21:37:46Z",
   "treasury": {
-    "total_donated": 37.3844,
-    "tx_count": 168,
-    "courtesy_total": 1.6,
-    "courtesy_count": 16
+    "total_donated": 37.4844,
+    "tx_count": 169,
+    "courtesy_total": 1.7,
+    "courtesy_count": 17
   },
   "garden": {
     "soil_moisture": 21,
     "valve_status": "closed",
-    "last_watered_ago": "Sep 25 18:09:00",
-    "last_watered_volume": 0.2,
+    "last_watered_ago": "Sep 29 17:37:42",
+    "last_watered_volume": 0.1,
     "flow_rate": 0.0,
-    "last_flow_peak": 6.13,
+    "last_flow_peak": 2.8,
     "peak_lpm_last_soak": 6.13,
-    "total_water_liters": 298.0
+    "total_water_liters": 298.1
   },
   "feeder": {
-    "tray_level": 15,
+    "tray_level": 10,
     "last_dispensed_grams": 21,
-    "last_dispensed_ago": "18:08:40",
+    "last_dispensed_ago": "17:37:22",
     "servo_status": "idle",
     "today_seed_grams": 228,
     "today_dispense_cycles": 19
@@ -50,8 +50,19 @@
       "amount": 0.1,
       "garden_action": "Watered",
       "feeder_action": "Dispensed",
-      "time_ago": "3d ago",
+      "time_ago": "4s ago",
       "active": true,
+      "hash": "2C9728F6490BD7F5E6CDD8B70F0FC9B942060FD10B79B7615EB27C22AECD4E32"
+    },
+    {
+      "addr": "courtesy pool",
+      "full_addr": "nano_16j9a6wq5kn4eusxoi55ed8hjjgbmkg8esd69neccdxhwik3eohzq3xpdbgi",
+      "courtesy": true,
+      "amount": 0.1,
+      "garden_action": "Watered",
+      "feeder_action": "Dispensed",
+      "time_ago": "3d ago",
+      "active": false,
       "hash": "FBD81FD408BDD8A142FB9541A3476B61B0234FFF3F9074E3816194D76697964C"
     },
     {
@@ -141,17 +152,6 @@
       "time_ago": "17d ago",
       "active": false,
       "hash": "772A2825F87DC39580A972BB56267FBE6C4092AACD624402C251F8E2C7A8A3F3"
-    },
-    {
-      "addr": "courtesy pool",
-      "full_addr": "nano_16j9a6wq5kn4eusxoi55ed8hjjgbmkg8esd69neccdxhwik3eohzq3xpdbgi",
-      "courtesy": true,
-      "amount": 0.1,
-      "garden_action": "Watered",
-      "feeder_action": "Dispensed",
-      "time_ago": "24d ago",
-      "active": false,
-      "hash": "335E5B3797EE581964557E76291BDA9B6B28A126AA3F742EA0573AA2055AEBC4"
     }
   ]
 }
