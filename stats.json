@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T20:14:05Z",
+  "updated_at": "2026-09-30T20:16:02Z",
   "treasury": {
     "total_donated": 37.4844,
     "tx_count": 169,
@@ -11,7 +11,7 @@
     "valve_status": "closed",
     "last_watered_ago": "Sep 30 16:14:02",
     "last_watered_volume": 6.8,
-    "flow_rate": 0.4,
+    "flow_rate": 0.0,
     "last_flow_peak": 16.8,
     "peak_lpm_last_soak": 16.8,
     "total_water_liters": 305.0
@@ -33,7 +33,7 @@
   },
   "weather": {
     "temp": 83,
-    "condition": "Clear",
+    "condition": "Mostly Clear",
     "rain_chance": 0,
     "precip_mm_hr": 0
   },
