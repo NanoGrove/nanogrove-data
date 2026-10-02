@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T03:50:02Z",
+  "updated_at": "2026-10-02T03:52:41Z",
   "treasury": {
     "total_donated": 37.4844,
     "tx_count": 169,
@@ -8,13 +8,13 @@
   },
   "garden": {
     "soil_moisture": 19,
-    "valve_status": "closed",
+    "valve_status": "open",
     "last_watered_ago": "Oct 01 11:52:35",
     "last_watered_volume": 6.5,
-    "flow_rate": 0.0,
-    "last_flow_peak": 14.67,
-    "peak_lpm_last_soak": 14.67,
-    "total_water_liters": 311.5
+    "flow_rate": 14.4,
+    "last_flow_peak": 14.4,
+    "peak_lpm_last_soak": 14.4,
+    "total_water_liters": 312.0
   },
   "feeder": {
     "tray_level": 10,
