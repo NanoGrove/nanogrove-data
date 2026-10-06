@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T12:24:02Z",
+  "updated_at": "2026-10-06T12:26:02Z",
   "treasury": {
     "total_donated": 37.6844,
     "tx_count": 171,
@@ -17,7 +17,7 @@
     "total_water_liters": 332.0
   },
   "feeder": {
-    "tray_level": 0,
+    "tray_level": 100,
     "last_dispensed_grams": 21,
     "last_dispensed_ago": "18:06:51",
     "servo_status": "idle",
