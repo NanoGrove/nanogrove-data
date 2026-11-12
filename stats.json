@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T04:58:03Z",
+  "updated_at": "2026-11-12T05:02:02Z",
   "treasury": {
     "total_donated": 38.2844,
     "tx_count": 177,
@@ -27,7 +27,7 @@
   "growing": {
     "emoji": "\ud83c\udf36\ufe0f",
     "plant": "Peppers",
-    "days_since_sown": 163,
+    "days_since_sown": 164,
     "days_to_harvest": 0,
     "progress_pct": 100
   },
@@ -50,7 +50,7 @@
       "amount": 0.1,
       "garden_action": "Saved",
       "feeder_action": "Dispensed",
-      "time_ago": "13h ago",
+      "time_ago": "14h ago",
       "active": true,
       "hash": "07FCE106569554DDB27736E1A8B77F210F0C6B4C9B3459898A9AD3A29E9D7692"
     },
@@ -61,7 +61,7 @@
       "amount": 0.1,
       "garden_action": "Saved",
       "feeder_action": "Dispensed",
-      "time_ago": "13h ago",
+      "time_ago": "14h ago",
       "active": false,
       "hash": "CED1993CC632C5E039DC45544477A9B965038D051D7F7B565A149D85B6254D8F"
     },
